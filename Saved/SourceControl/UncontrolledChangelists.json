@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/ALUMNOS/Documents/Unreal Projects/Nueva carpeta/Content/UI/kindpng_492408.uasset",
+				"C:/Users/ALUMNOS/Documents/Unreal Projects/Nueva carpeta/Content/Diablo/WaveLevel.umap",
+				"C:/Users/ALUMNOS/Documents/Unreal Projects/Nueva carpeta/Content/UI/Widgets/BPW_Loading.uasset"
+			]
+		}
+	]
+}
