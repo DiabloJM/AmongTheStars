@@ -5,9 +5,20 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Content/UI/MainMenu.umap",
 				"C:/Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Content/UI/Blueprints/BP_GameModeMenu.uasset",
 				"C:/Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Content/UI/MainMenu_HLOD0_Instancing.uasset",
+				"C:/Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Content/UI/Blueprints/BP_Menu.uasset",
+				"C:/Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Content/UI/Widgets/BPW_MenuPrincipal.uasset",
+				"C:/Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Content/UI/Blueprints/BP_PlayerMenu.uasset",
+				"C:/Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Content/UI/Blueprints/BP_SettingsMenu.uasset",
+				"C:/Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Content/UI/Fonts/Moonstar.uasset",
+				"C:/Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Content/UI/Fonts/Moonstar_Font.uasset",
+				"C:/Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Content/UI/Fonts/Starborn.uasset",
+				"C:/Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Content/UI/Fonts/Starborn_Font.uasset",
+				"C:/Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Content/UI/Fonts/Start.uasset",
+				"C:/Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Content/UI/Fonts/Start_Font.uasset",
+				"C:/Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Content/UI/MainMenu.umap",
+				"C:/Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Content/UI/MainMenu.umap",
 				"C:/Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Content/__ExternalActors__/UI/MainMenu/5/GL/0ZCXJD2JD6BSTWDFJMWCMU.uasset",
 				"C:/Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Content/__ExternalObjects__/UI/MainMenu/A/YZ/LQXKXNX65CU6X7S1BHOXHK.uasset",
 				"C:/Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Content/__ExternalObjects__/UI/MainMenu/C/71/2X3M706NRX1HP4KZCPEHEM.uasset",
@@ -150,9 +161,9 @@
 				"C:/Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Content/__ExternalActors__/UI/MainMenu/7/EE/A6W9HV9MYIV4BTIZVTGZWZ.uasset",
 				"C:/Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Content/__ExternalActors__/UI/MainMenu/A/5P/7BWQ8TFM7KW1480RJUJ2KL.uasset",
 				"C:/Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Content/__ExternalActors__/UI/MainMenu/6/GE/51P37XAO6O7JR8B29YPYF0.uasset",
-				"C:/Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Content/UI/Blueprints/BP_Menu.uasset",
-				"C:/Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Content/UI/Widgets/BPW_MenuPrincipal.uasset",
-				"C:/Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Content/__ExternalActors__/UI/MainMenu/3/ER/HIR6BHMT3R879IYRK0U5D6.uasset"
+				"C:/Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Content/__ExternalActors__/UI/MainMenu/3/ER/HIR6BHMT3R879IYRK0U5D6.uasset",
+				"C:/Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Content/__ExternalActors__/UI/MainMenu/1/JS/C9DC6X7EACMO17R9E3MLSX.uasset",
+				"C:/Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Content/__ExternalActors__/UI/MainMenu/1/HG/KHT6ZNK8QDGJCP8LBRJH4I.uasset"
 			]
 		}
 	]
