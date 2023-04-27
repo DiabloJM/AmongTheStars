@@ -23718,3 +23718,1806 @@ UnknownFunction []
 [2023.04.27-12.29.41:720][123]LogPlayLevel: Display: Destroying online subsystem :Context_213
 [2023.04.27-12.30.27:667][922]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
 [2023.04.27-12.30.31:615][922]LogSlate: Window 'Delete Assets' being destroyed
+[2023.04.27-12.31.21:421][150]LogViewport: Scene viewport resized to 1141x877, mode Windowed.
+[2023.04.27-12.31.27:897][812]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Widgets/BPW_Credits.BPW_Credits
+[2023.04.27-12.31.27:897][812]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.27-12.31.27:902][812]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.27-12.31.28:397][812]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.27-12.31.28:397][812]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.27-12.31.53:155][530]LogEditorTransaction: Undo Paste clipboard contents
+[2023.04.27-12.32.00:496][307]BlueprintLog: New page: Compile BPW_Credits
+[2023.04.27-12.32.00:498][307]LogBlueprint: Warning: [AssetLog] C:\Users\ALUMNOS\Documents\Unreal Projects\AmongTheStars\AmongTheStars\Content\UI\Widgets\BPW_Credits.uasset: [Compiler] On Released (Back)  does not have a valid matching component!
+[2023.04.27-12.32.00:622][307]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.04.27-12.32.03:276][593]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.27-12.32.03:276][593]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.27-12.32.10:769][335]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.04.27-12.32.10:770][335]LogBlueprint: Error: [AssetLog]  (no disk path found): [Compiler] There can only be one event node bound to this component! Delete  On Released (Back)  or the other bound event
+[2023.04.27-12.32.10:770][335]BlueprintLog: New page: Rename Component Error
+[2023.04.27-12.32.10:770][335]BlueprintLog: Error: There can only be one event node bound to this component! Delete  On Released (Back)  or the other bound event
+[2023.04.27-12.32.17:096][ 13]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.27-12.32.17:096][ 13]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.27-12.33.10:970][117]BlueprintLog: New page: Compile BPW_Credits
+[2023.04.27-12.33.11:101][117]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2023.04.27-12.33.12:186][182]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.27-12.33.12:236][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Widgets/BPW_Credits" FILE="../../../../../../Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Content/UI/Widgets/BPW_Credits.uasset" SILENT=true
+[2023.04.27-12.33.12:245][182]LogSavePackage: Moving output files for package: /Game/UI/Widgets/BPW_Credits
+[2023.04.27-12.33.12:246][182]LogSavePackage: Moving '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Saved/BPW_CreditsBC706F3D45D60CDBC7254A9E3FEED18D.tmp' to '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Content/UI/Widgets/BPW_Credits.uasset'
+[2023.04.27-12.33.12:254][182]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 18.7 sec)
+[2023.04.27-12.33.12:262][182]AssetCheck: New page: Asset Save: BPW_Credits
+[2023.04.27-12.33.12:262][182]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Widgets/BPW_Credits.BPW_Credits
+[2023.04.27-12.34.11:130][784]BlueprintLog: New page: Compile BPW_Credits
+[2023.04.27-12.34.11:256][784]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2023.04.27-12.34.11:843][835]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.27-12.34.11:904][835]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Widgets/BPW_Credits" FILE="../../../../../../Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Content/UI/Widgets/BPW_Credits.uasset" SILENT=true
+[2023.04.27-12.34.11:910][835]LogSavePackage: Moving output files for package: /Game/UI/Widgets/BPW_Credits
+[2023.04.27-12.34.11:911][835]LogSavePackage: Moving '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Saved/BPW_CreditsBF67EA734D10229B2F81A3ABB92D7671.tmp' to '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Content/UI/Widgets/BPW_Credits.uasset'
+[2023.04.27-12.34.11:920][835]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 18.8 sec)
+[2023.04.27-12.34.11:928][835]AssetCheck: New page: Asset Save: BPW_Credits
+[2023.04.27-12.34.11:928][835]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Widgets/BPW_Credits.BPW_Credits
+[2023.04.27-12.34.12:353][886]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.27-12.34.12:402][886]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Widgets/BPW_Credits" FILE="../../../../../../Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Content/UI/Widgets/BPW_Credits.uasset" SILENT=true
+[2023.04.27-12.34.12:408][886]LogSavePackage: Moving output files for package: /Game/UI/Widgets/BPW_Credits
+[2023.04.27-12.34.12:409][886]LogSavePackage: Moving '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Saved/BPW_CreditsAE311716457EA9E9E82748B7313F8A7F.tmp' to '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Content/UI/Widgets/BPW_Credits.uasset'
+[2023.04.27-12.34.12:417][886]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 18.9 sec)
+[2023.04.27-12.34.12:425][886]AssetCheck: New page: Asset Save: BPW_Credits
+[2023.04.27-12.34.12:425][886]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Widgets/BPW_Credits.BPW_Credits
+[2023.04.27-12.34.24:605][122]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.27-12.34.24:658][122]LogSavePackage: Moving output files for package: /Game/UI/Blueprints/BP_CreditsMenu
+[2023.04.27-12.34.24:658][122]LogSavePackage: Moving '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Saved/BP_CreditsMenuEB6A144244353B6913D4489D0A9DA687.tmp' to '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Content/UI/Blueprints/BP_CreditsMenu.uasset'
+[2023.04.27-12.34.24:667][122]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 18.9 sec)
+[2023.04.27-12.34.24:675][122]AssetCheck: New page: Asset Save: BP_CreditsMenu
+[2023.04.27-12.34.24:675][122]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/UI/Blueprints/BP_CreditsMenu.BP_CreditsMenu
+[2023.04.27-12.34.25:508][201]BlueprintLog: New page: Compile BP_CreditsMenu
+[2023.04.27-12.34.25:636][201]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.04.27-12.34.26:156][237]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.27-12.34.26:207][237]LogSavePackage: Moving output files for package: /Game/UI/Blueprints/BP_CreditsMenu
+[2023.04.27-12.34.26:208][237]LogSavePackage: Moving '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Saved/BP_CreditsMenuBAF1383D4CEB93795E22CBB4E1434627.tmp' to '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Content/UI/Blueprints/BP_CreditsMenu.uasset'
+[2023.04.27-12.34.26:215][237]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 19.0 sec)
+[2023.04.27-12.34.26:222][237]AssetCheck: New page: Asset Save: BP_CreditsMenu
+[2023.04.27-12.34.26:222][237]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/UI/Blueprints/BP_CreditsMenu.BP_CreditsMenu
+[2023.04.27-12.34.30:316][447]Cmd: EDIT COPY
+[2023.04.27-12.34.30:779][468]Cmd: EDIT PASTE
+[2023.04.27-12.34.30:885][468]LogClass: Warning: Short type name "BP_Menu_C_1" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2023.04.27-12.34.30:896][468]LogClass: Warning: Short type name "BP_Menu_C_1" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2023.04.27-12.35.10:033][487]Cmd: DELETE
+[2023.04.27-12.35.10:033][487]Cmd: ACTOR DELETE
+[2023.04.27-12.35.10:038][487]LogEditorActor: Deleted Actor: BP_Menu_C
+[2023.04.27-12.35.10:135][487]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2023.04.27-12.35.10:140][487]LogEditorActor: Deleted 1 Actors (0.107 secs)
+[2023.04.27-12.35.17:192][837]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/UI/Blueprints/BP_CreditsMenu.BP_CreditsMenu_C
+[2023.04.27-12.35.17:193][837]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/UI/Blueprints/BP_CreditsMenu.BP_CreditsMenu_C
+[2023.04.27-12.35.17:195][837]LogActorFactory: Actor Factory spawned Blueprint /Game/UI/Blueprints/BP_CreditsMenu.BP_CreditsMenu as actor: BP_CreditsMenu_C /Game/UI/MainMenu.MainMenu:PersistentLevel.BP_CreditsMenu_C_0
+[2023.04.27-12.35.17:198][837]LogActorFactory: Actor Factory spawned Blueprint /Game/UI/Blueprints/BP_CreditsMenu.BP_CreditsMenu as actor: BP_CreditsMenu_C /Game/UI/MainMenu.MainMenu:PersistentLevel.BP_CreditsMenu_C_0
+[2023.04.27-12.35.17:376][854]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/UI/Blueprints/BP_CreditsMenu.BP_CreditsMenu_C
+[2023.04.27-12.35.17:376][854]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/UI/Blueprints/BP_CreditsMenu.BP_CreditsMenu_C
+[2023.04.27-12.35.17:378][854]LogActorFactory: Actor Factory spawned Blueprint /Game/UI/Blueprints/BP_CreditsMenu.BP_CreditsMenu as actor: BP_CreditsMenu_C /Game/UI/MainMenu.MainMenu:PersistentLevel.BP_CreditsMenu_C_1
+[2023.04.27-12.35.17:380][854]LogActorFactory: Actor Factory spawned Blueprint /Game/UI/Blueprints/BP_CreditsMenu.BP_CreditsMenu as actor: BP_CreditsMenu_C /Game/UI/MainMenu.MainMenu:PersistentLevel.BP_CreditsMenu_C_1
+[2023.04.27-12.35.35:323][126]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.27-12.35.35:324][126]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.27-12.35.35:324][126]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.27-12.35.50:687][436]BlueprintLog: New page: Compile BP_CreditsMenu
+[2023.04.27-12.35.50:819][436]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2023.04.27-12.35.59:883][273]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.27-12.35.59:945][273]LogSavePackage: Moving output files for package: /Game/UI/Blueprints/BP_CreditsMenu
+[2023.04.27-12.35.59:946][273]LogSavePackage: Moving '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Saved/BP_CreditsMenu530EFF9A499E7CD323C05F9A456EC099.tmp' to '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Content/UI/Blueprints/BP_CreditsMenu.uasset'
+[2023.04.27-12.35.59:954][273]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 19.1 sec)
+[2023.04.27-12.35.59:961][273]AssetCheck: New page: Asset Save: BP_CreditsMenu
+[2023.04.27-12.35.59:961][273]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/UI/Blueprints/BP_CreditsMenu.BP_CreditsMenu
+[2023.04.27-12.36.00:348][305]BlueprintLog: New page: Compile BP_CreditsMenu
+[2023.04.27-12.36.00:480][305]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2023.04.27-12.36.01:286][358]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.27-12.36.01:342][358]LogSavePackage: Moving output files for package: /Game/UI/Blueprints/BP_CreditsMenu
+[2023.04.27-12.36.01:342][358]LogSavePackage: Moving '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Saved/BP_CreditsMenu9914761A4A9917743DF6AFA57723451C.tmp' to '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Content/UI/Blueprints/BP_CreditsMenu.uasset'
+[2023.04.27-12.36.01:350][358]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 19.1 sec)
+[2023.04.27-12.36.01:357][358]AssetCheck: New page: Asset Save: BP_CreditsMenu
+[2023.04.27-12.36.01:357][358]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/UI/Blueprints/BP_CreditsMenu.BP_CreditsMenu
+[2023.04.27-12.36.03:787][545]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.27-12.36.03:947][545]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2023.04.27-12.36.03:960][545]LogSavePackage: Moving output files for package: /Game/UI/MainMenu
+[2023.04.27-12.36.03:961][545]LogSavePackage: Moving '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Saved/MainMenuC82CCC3B4743FC240D25BDB9B2CE685B.tmp' to '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Content/UI/MainMenu.umap'
+[2023.04.27-12.36.03:975][545]LogFileHelpers: Saving map 'MainMenu' took 0.130
+[2023.04.27-12.36.03:981][545]LogFileHelpers: InternalPromptForCheckoutAndSave took 194 ms (total: 19.3 sec)
+[2023.04.27-12.36.03:988][545]AssetCheck: New page: Asset Save: MainMenu
+[2023.04.27-12.36.03:988][545]LogContentValidation: Display: Validating /Script/Engine.World /Game/UI/MainMenu.MainMenu
+[2023.04.27-12.36.18:307][442]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.27-12.36.18:494][442]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.04.27-12.36.18:506][442]LogSavePackage: Moving output files for package: /Game/UI/MainMenu
+[2023.04.27-12.36.18:507][442]LogSavePackage: Moving '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Saved/MainMenuFC38A91D40FEBC1883582FA503732546.tmp' to '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Content/UI/MainMenu.umap'
+[2023.04.27-12.36.18:522][442]LogFileHelpers: Saving map 'MainMenu' took 0.143
+[2023.04.27-12.36.18:530][442]LogFileHelpers: InternalPromptForCheckoutAndSave took 221 ms (total: 19.5 sec)
+[2023.04.27-12.36.18:538][442]AssetCheck: New page: Asset Save: MainMenu
+[2023.04.27-12.36.18:538][442]LogContentValidation: Display: Validating /Script/Engine.World /Game/UI/MainMenu.MainMenu
+[2023.04.27-12.36.30:367][184]LogViewport: Scene viewport resized to 1141x875, mode Windowed.
+[2023.04.27-12.37.23:810][805]LogEditorTransaction: Undo Move Widget
+[2023.04.27-12.37.24:404][817]LogEditorTransaction: Undo Paste clipboard contents
+[2023.04.27-12.37.33:792][685]LogEditorTransaction: Undo Paste clipboard contents
+[2023.04.27-12.37.34:294][693]LogEditorTransaction: Undo Edit Bottom
+[2023.04.27-12.37.59:762][953]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.27-12.37.59:842][953]LogSavePackage: Moving output files for package: /Game/UI/Widgets/BPW_MenuPrincipal
+[2023.04.27-12.37.59:843][953]LogSavePackage: Moving '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Saved/BPW_MenuPrincipal4DA2C89449F6B2033E7C1EA71FDE8DAE.tmp' to '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Content/UI/Widgets/BPW_MenuPrincipal.uasset'
+[2023.04.27-12.37.59:852][953]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 19.6 sec)
+[2023.04.27-12.37.59:858][953]AssetCheck: New page: Asset Save: BPW_MenuPrincipal
+[2023.04.27-12.37.59:858][953]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Widgets/BPW_MenuPrincipal.BPW_MenuPrincipal
+[2023.04.27-12.38.00:854][ 35]BlueprintLog: New page: Compile BPW_MenuPrincipal
+[2023.04.27-12.38.01:025][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.04.27-12.38.01:594][ 61]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.27-12.38.01:660][ 61]LogSavePackage: Moving output files for package: /Game/UI/Widgets/BPW_MenuPrincipal
+[2023.04.27-12.38.01:661][ 61]LogSavePackage: Moving '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Saved/BPW_MenuPrincipal3632D19F4D19A13DADAD488C1780EBD1.tmp' to '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Content/UI/Widgets/BPW_MenuPrincipal.uasset'
+[2023.04.27-12.38.01:668][ 61]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 19.7 sec)
+[2023.04.27-12.38.01:676][ 61]AssetCheck: New page: Asset Save: BPW_MenuPrincipal
+[2023.04.27-12.38.01:676][ 61]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Widgets/BPW_MenuPrincipal.BPW_MenuPrincipal
+[2023.04.27-12.38.02:281][107]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.27-12.38.02:289][107]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.27-12.38.02:289][107]PIE: New page: PIE session: MainMenu (Apr 27, 2023, 1:38:02 AM)
+[2023.04.27-12.38.02:289][107]LogPlayLevel: Creating play world package: /Game/UI/UEDPIE_0_MainMenu
+[2023.04.27-12.38.02:292][107]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002825s)
+[2023.04.27-12.38.02:292][107]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UI/MainMenu.MainMenu to /Game/UI/UEDPIE_0_MainMenu.MainMenu (0.002877s)
+[2023.04.27-12.38.02:293][107]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.27-12.38.02:293][107]LogAIModule: Creating AISystem for world MainMenu
+[2023.04.27-12.38.02:293][107]LogPlayLevel: PIE: World Init took: (0.001072s)
+[2023.04.27-12.38.02:389][107]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.04.27-12.38.02:392][107]LogAudio: Display: Creating Audio Device:                 Id: 190, Scope: Unique, Realtime: True
+[2023.04.27-12.38.02:392][107]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.27-12.38.02:392][107]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.27-12.38.02:392][107]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.27-12.38.02:392][107]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.27-12.38.02:392][107]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.27-12.38.02:392][107]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.27-12.38.02:392][107]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.27-12.38.02:392][107]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.27-12.38.02:393][107]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.27-12.38.02:393][107]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.27-12.38.02:393][107]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.27-12.38.02:395][107]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.27-12.38.02:419][107]LogAudioMixer: Display: Using Audio Hardware Device Digital Audio (S/PDIF) (High Definition Audio Device)
+[2023.04.27-12.38.02:419][107]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.27-12.38.02:419][107]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.27-12.38.02:419][107]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.27-12.38.02:420][107]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=190
+[2023.04.27-12.38.02:420][107]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=190
+[2023.04.27-12.38.02:422][107]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=190
+[2023.04.27-12.38.02:422][107]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=190
+[2023.04.27-12.38.02:422][107]LogInit: FAudioDevice initialized.
+[2023.04.27-12.38.02:422][107]LogAudio: Display: Audio Device (ID: 190) registered with world 'MainMenu'.
+[2023.04.27-12.38.02:471][107]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.27-12.38.02:471][107]LogLoad: Game class is 'BP_GameModeMenu_C'
+[2023.04.27-12.38.02:472][107]LogWorld: Bringing World /Game/UI/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2023.04.27-06.38.02
+[2023.04.27-12.38.02:473][107]LogWorld: Bringing up level for play took: 0.001354
+[2023.04.27-12.38.02:475][107]LogOnline: OSS: Created online subsystem instance for: :Context_216
+[2023.04.27-12.38.02:480][107]PIE: Server logged in
+[2023.04.27-12.38.02:483][107]PIE: Play in editor total start time 0.195 seconds.
+[2023.04.27-12.38.02:485][107]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.02:502][107]LogViewport: Scene viewport resized to 1914x1000, mode Windowed.
+[2023.04.27-12.38.02:550][108]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.02:567][109]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.02:583][110]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.02:609][111]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.02:634][112]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.02:659][113]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.02:684][114]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.02:710][115]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.02:734][116]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.02:758][117]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.02:784][118]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.02:807][119]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.02:828][120]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.02:849][121]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.02:871][122]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.02:893][123]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.02:915][124]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.02:936][125]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.02:957][126]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.02:977][127]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.02:997][128]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.03:017][129]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.03:037][130]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.03:056][131]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.03:077][132]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.03:096][133]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.03:117][134]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.03:136][135]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.03:157][136]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.03:176][137]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.03:196][138]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.03:216][139]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.03:235][140]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.03:257][141]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.03:278][142]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.03:297][143]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.03:317][144]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.03:337][145]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.03:357][146]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.03:377][147]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.03:396][148]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.03:417][149]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.03:436][150]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.03:456][151]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.03:475][152]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.03:495][153]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.03:515][154]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.03:535][155]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.03:555][156]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.03:576][157]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.03:596][158]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.03:617][159]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.03:636][160]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.03:656][161]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.03:676][162]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.03:696][163]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.03:715][164]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.03:735][165]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.03:756][166]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.03:775][167]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.03:795][168]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.03:814][169]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.03:834][170]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.03:854][171]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.03:873][172]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.03:893][173]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.03:916][174]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.03:935][175]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.03:955][176]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.03:975][177]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.03:994][178]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.04:014][179]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.04:034][180]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.04:054][181]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.04:074][182]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.04:094][183]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.04:113][184]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.04:133][185]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.04:153][186]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.04:172][187]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.04:192][188]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.04:212][189]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.04:232][190]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.04:254][191]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.04:274][192]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.04:293][193]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.04:313][194]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.04:333][195]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.04:352][196]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.04:372][197]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.04:392][198]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.04:412][199]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.04:431][200]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.04:451][201]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.04:471][202]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.04:491][203]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.04:511][204]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.04:530][205]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.04:550][206]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.04:570][207]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.04:592][208]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.04:611][209]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.04:631][210]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.04:650][211]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.04:670][212]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.04:689][213]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.04:709][214]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.04:729][215]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.04:749][216]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.04:769][217]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.04:789][218]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.04:808][219]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.04:828][220]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.04:848][221]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.04:868][222]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.04:888][223]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.04:908][224]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.04:929][225]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.04:950][226]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.04:969][227]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.04:989][228]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.05:008][229]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.05:028][230]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.05:048][231]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.05:068][232]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.05:088][233]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.05:108][234]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.05:127][235]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.38.05:147][236]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.27-12.38.05:147][236]LogWorld: BeginTearingDown for /Game/UI/UEDPIE_0_MainMenu
+[2023.04.27-12.38.05:148][236]LogSlate: Window 'AmongTheStars Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 5)' being destroyed
+[2023.04.27-12.38.05:172][236]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.04.27-12.38.05:172][236]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.27-12.38.05:206][236]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.27-12.38.05:213][236]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.27-12.38.05:306][236]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.27-12.38.05:307][236]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=190
+[2023.04.27-12.38.05:309][236]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=190
+[2023.04.27-12.38.05:314][236]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.04.27-12.38.05:348][237]LogPlayLevel: Display: Destroying online subsystem :Context_216
+[2023.04.27-12.38.47:443][850]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.27-12.38.47:443][850]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.27-12.39.17:831][571]BlueprintLog: New page: Compile BPW_MenuPrincipal
+[2023.04.27-12.39.17:996][571]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.04.27-12.39.18:392][579]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.27-12.39.18:458][579]LogSavePackage: Moving output files for package: /Game/UI/Widgets/BPW_MenuPrincipal
+[2023.04.27-12.39.18:459][579]LogSavePackage: Moving '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Saved/BPW_MenuPrincipal2A7A5B4E4B118E153B4DDF9206DFA513.tmp' to '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Content/UI/Widgets/BPW_MenuPrincipal.uasset'
+[2023.04.27-12.39.18:467][579]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 19.8 sec)
+[2023.04.27-12.39.18:475][579]AssetCheck: New page: Asset Save: BPW_MenuPrincipal
+[2023.04.27-12.39.18:475][579]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Widgets/BPW_MenuPrincipal.BPW_MenuPrincipal
+[2023.04.27-12.39.41:463][  6]LogEditorTransaction: Undo Delete current selection
+[2023.04.27-12.39.53:259][238]LogEditorTransaction: Undo Paste clipboard contents
+[2023.04.27-12.39.56:520][570]LogBlueprint: Warning: [AssetLog] C:\Users\ALUMNOS\Documents\Unreal Projects\AmongTheStars\AmongTheStars\Content\UI\Blueprints\BP_PlayerMenu.uasset: [Compiler] Pasted node  CustomEvent   conflicted with  Event Tick  and was replaced as a Custom Event!
+[2023.04.27-12.40.05:292][476]LogDerivedDataCache: C:/Users/ALUMNOS/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:21.140 and deleted 0 files with total size 0 MiB. Scanned 11332 files in 10848 folders with total size 458 MiB.
+[2023.04.27-12.40.20:240][820]LogEditorTransaction: Undo Move Node
+[2023.04.27-12.41.05:009][556]LogBlueprint: Warning: [AssetLog] C:\Users\ALUMNOS\Documents\Unreal Projects\AmongTheStars\AmongTheStars\Content\UI\Blueprints\BP_PlayerMenu.uasset: [Compiler] Pasted node  CustomEvent_1   conflicted with  Event Tick  and was replaced as a Custom Event!
+[2023.04.27-12.42.18:985][370]LogBlueprint: Warning: [AssetLog] C:\Users\ALUMNOS\Documents\Unreal Projects\AmongTheStars\AmongTheStars\Content\UI\Blueprints\BP_PlayerMenu.uasset: [Compiler] Pasted node  CustomEvent_1   conflicted with  Event Tick  and was replaced as a Custom Event!
+[2023.04.27-12.44.16:306][136]BlueprintLog: New page: Compile BP_PlayerMenu
+[2023.04.27-12.44.16:474][136]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.04.27-12.44.17:081][167]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.27-12.44.17:148][167]LogSavePackage: Moving output files for package: /Game/UI/Blueprints/BP_PlayerMenu
+[2023.04.27-12.44.17:149][167]LogSavePackage: Moving '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Saved/BP_PlayerMenu36BDFF1746D98090E2DC45AE990B4CD1.tmp' to '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Content/UI/Blueprints/BP_PlayerMenu.uasset'
+[2023.04.27-12.44.17:158][167]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 19.9 sec)
+[2023.04.27-12.44.17:166][167]AssetCheck: New page: Asset Save: BP_PlayerMenu
+[2023.04.27-12.44.17:166][167]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/UI/Blueprints/BP_PlayerMenu.BP_PlayerMenu
+[2023.04.27-12.44.18:495][232]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.27-12.44.18:503][232]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.04.27-12.44.18:504][232]LogPlayLevel: [PlayLevel] Compiling BPW_MenuPrincipal before play...
+[2023.04.27-12.44.18:573][232]LogPlayLevel: [PlayLevel] Compiling BPW_Credits before play...
+[2023.04.27-12.44.18:705][232]LogPlayLevel: [PlayLevel] Compiling BPW_Controls before play...
+[2023.04.27-12.44.18:864][232]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.04.27-12.44.18:867][232]LogPlayLevel: PlayLevel: Blueprint regeneration took 363 ms (3 blueprints)
+[2023.04.27-12.44.18:867][232]PIE: New page: PIE session: MainMenu (Apr 27, 2023, 1:44:18 AM)
+[2023.04.27-12.44.18:867][232]LogPlayLevel: Creating play world package: /Game/UI/UEDPIE_0_MainMenu
+[2023.04.27-12.44.18:870][232]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002635s)
+[2023.04.27-12.44.18:870][232]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UI/MainMenu.MainMenu to /Game/UI/UEDPIE_0_MainMenu.MainMenu (0.002685s)
+[2023.04.27-12.44.18:870][232]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.27-12.44.18:871][232]LogAIModule: Creating AISystem for world MainMenu
+[2023.04.27-12.44.18:871][232]LogPlayLevel: PIE: World Init took: (0.001094s)
+[2023.04.27-12.44.18:970][232]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.04.27-12.44.18:972][232]LogAudio: Display: Creating Audio Device:                 Id: 191, Scope: Unique, Realtime: True
+[2023.04.27-12.44.18:972][232]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.27-12.44.18:972][232]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.27-12.44.18:972][232]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.27-12.44.18:972][232]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.27-12.44.18:972][232]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.27-12.44.18:972][232]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.27-12.44.18:972][232]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.27-12.44.18:972][232]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.27-12.44.18:973][232]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.27-12.44.18:973][232]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.27-12.44.18:973][232]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.27-12.44.18:975][232]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.27-12.44.18:999][232]LogAudioMixer: Display: Using Audio Hardware Device Digital Audio (S/PDIF) (High Definition Audio Device)
+[2023.04.27-12.44.18:999][232]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.27-12.44.18:999][232]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.27-12.44.18:999][232]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.27-12.44.19:001][232]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=191
+[2023.04.27-12.44.19:001][232]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=191
+[2023.04.27-12.44.19:003][232]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=191
+[2023.04.27-12.44.19:003][232]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=191
+[2023.04.27-12.44.19:003][232]LogInit: FAudioDevice initialized.
+[2023.04.27-12.44.19:003][232]LogAudio: Display: Audio Device (ID: 191) registered with world 'MainMenu'.
+[2023.04.27-12.44.19:007][232]LogLoad: Game class is 'BP_GameModeMenu_C'
+[2023.04.27-12.44.19:008][232]LogWorld: Bringing World /Game/UI/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2023.04.27-06.44.19
+[2023.04.27-12.44.19:008][232]LogWorld: Bringing up level for play took: 0.001106
+[2023.04.27-12.44.19:010][232]LogOnline: OSS: Created online subsystem instance for: :Context_217
+[2023.04.27-12.44.19:012][232]PIE: Server logged in
+[2023.04.27-12.44.19:013][232]PIE: Play in editor total start time 0.51 seconds.
+[2023.04.27-12.44.19:015][232]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.19:153][233]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.19:172][234]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.19:180][235]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.19:190][236]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.19:206][237]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.19:223][238]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.19:239][239]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.19:254][240]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.19:270][241]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.19:286][242]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.19:302][243]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.19:318][244]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.19:333][245]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.19:350][246]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.19:365][247]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.19:381][248]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.19:397][249]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.19:414][250]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.19:430][251]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.19:446][252]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.19:461][253]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.19:477][254]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.19:492][255]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.19:509][256]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.19:524][257]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.19:540][258]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.19:556][259]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.19:572][260]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.19:588][261]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.19:604][262]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.19:619][263]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.19:635][264]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.19:651][265]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.19:667][266]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.19:683][267]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.19:699][268]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.19:715][269]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.19:730][270]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.19:747][271]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.19:764][272]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.19:779][273]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.19:794][274]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.19:810][275]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.19:826][276]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.19:841][277]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.19:857][278]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.19:873][279]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.19:889][280]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.19:905][281]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.19:921][282]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.19:936][283]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.19:953][284]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.19:968][285]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.19:984][286]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.20:000][287]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.20:015][288]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.20:031][289]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.20:046][290]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.20:062][291]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.20:080][292]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.20:096][293]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.20:111][294]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.20:126][295]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.20:142][296]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.20:158][297]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.20:173][298]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.20:189][299]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.20:205][300]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.20:221][301]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.20:237][302]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.20:252][303]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.20:268][304]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.20:284][305]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.20:300][306]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.20:316][307]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.20:332][308]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.20:349][309]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.20:364][310]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.20:380][311]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.20:396][312]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.20:413][313]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.20:428][314]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.20:444][315]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.20:459][316]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.20:475][317]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.20:490][318]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.20:506][319]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.20:522][320]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.20:538][321]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.20:553][322]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.20:570][323]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.20:585][324]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.20:601][325]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.20:616][326]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.20:632][327]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.20:647][328]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.20:663][329]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.20:678][330]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.20:694][331]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.20:709][332]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.20:725][333]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.20:743][334]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.20:758][335]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.20:774][336]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.20:792][337]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.20:812][338]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.20:822][339]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.20:837][340]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.20:852][341]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.20:868][342]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.20:884][343]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.20:899][344]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.20:915][345]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.20:931][346]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.20:947][347]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.20:963][348]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.20:978][349]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.20:994][350]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.21:108][361]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.44.21:138][361]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.27-12.44.21:138][361]LogWorld: BeginTearingDown for /Game/UI/UEDPIE_0_MainMenu
+[2023.04.27-12.44.21:138][361]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.04.27-12.44.21:139][361]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.27-12.44.21:172][361]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.27-12.44.21:178][361]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.27-12.44.21:270][361]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.27-12.44.21:270][361]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=191
+[2023.04.27-12.44.21:272][361]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=191
+[2023.04.27-12.44.21:279][361]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2023.04.27-12.44.21:314][362]LogPlayLevel: Display: Destroying online subsystem :Context_217
+[2023.04.27-12.44.59:855][141]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.27-12.44.59:855][141]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.27-12.46.14:363][111]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.27-12.46.14:482][111]LogSavePackage: Moving output files for package: /Game/UI/Widgets/BPW_MenuPrincipal
+[2023.04.27-12.46.14:483][111]LogSavePackage: Moving '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Saved/BPW_MenuPrincipal48D3A31B4B3737A9E874189E68B50F97.tmp' to '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Content/UI/Widgets/BPW_MenuPrincipal.uasset'
+[2023.04.27-12.46.14:492][111]LogFileHelpers: InternalPromptForCheckoutAndSave took 129 ms (total: 20.0 sec)
+[2023.04.27-12.46.14:501][111]AssetCheck: New page: Asset Save: BPW_MenuPrincipal
+[2023.04.27-12.46.14:501][111]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Widgets/BPW_MenuPrincipal.BPW_MenuPrincipal
+[2023.04.27-12.46.15:101][164]BlueprintLog: New page: Compile BPW_MenuPrincipal
+[2023.04.27-12.46.15:263][164]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2023.04.27-12.46.15:763][203]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.27-12.46.15:835][203]LogSavePackage: Moving output files for package: /Game/UI/Widgets/BPW_MenuPrincipal
+[2023.04.27-12.46.15:837][203]LogSavePackage: Moving '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Saved/BPW_MenuPrincipal5B6C745C4789958F0CCF7990552F4566.tmp' to '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Content/UI/Widgets/BPW_MenuPrincipal.uasset'
+[2023.04.27-12.46.15:848][203]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 20.1 sec)
+[2023.04.27-12.46.15:854][203]AssetCheck: New page: Asset Save: BPW_MenuPrincipal
+[2023.04.27-12.46.15:854][203]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Widgets/BPW_MenuPrincipal.BPW_MenuPrincipal
+[2023.04.27-12.46.17:426][306]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.27-12.46.17:434][306]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.27-12.46.17:434][306]PIE: New page: PIE session: MainMenu (Apr 27, 2023, 1:46:17 AM)
+[2023.04.27-12.46.17:435][306]LogPlayLevel: Creating play world package: /Game/UI/UEDPIE_0_MainMenu
+[2023.04.27-12.46.17:438][306]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003053s)
+[2023.04.27-12.46.17:438][306]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UI/MainMenu.MainMenu to /Game/UI/UEDPIE_0_MainMenu.MainMenu (0.003105s)
+[2023.04.27-12.46.17:438][306]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.27-12.46.17:439][306]LogAIModule: Creating AISystem for world MainMenu
+[2023.04.27-12.46.17:439][306]LogPlayLevel: PIE: World Init took: (0.001374s)
+[2023.04.27-12.46.17:537][306]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2023.04.27-12.46.17:539][306]LogAudio: Display: Creating Audio Device:                 Id: 192, Scope: Unique, Realtime: True
+[2023.04.27-12.46.17:540][306]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.27-12.46.17:540][306]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.27-12.46.17:540][306]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.27-12.46.17:540][306]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.27-12.46.17:540][306]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.27-12.46.17:540][306]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.27-12.46.17:540][306]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.27-12.46.17:540][306]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.27-12.46.17:541][306]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.27-12.46.17:541][306]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.27-12.46.17:541][306]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.27-12.46.17:543][306]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.27-12.46.17:566][306]LogAudioMixer: Display: Using Audio Hardware Device Digital Audio (S/PDIF) (High Definition Audio Device)
+[2023.04.27-12.46.17:566][306]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.27-12.46.17:566][306]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.27-12.46.17:566][306]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.27-12.46.17:568][306]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=192
+[2023.04.27-12.46.17:568][306]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=192
+[2023.04.27-12.46.17:570][306]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=192
+[2023.04.27-12.46.17:570][306]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=192
+[2023.04.27-12.46.17:570][306]LogInit: FAudioDevice initialized.
+[2023.04.27-12.46.17:570][306]LogAudio: Display: Audio Device (ID: 192) registered with world 'MainMenu'.
+[2023.04.27-12.46.17:572][306]LogLoad: Game class is 'BP_GameModeMenu_C'
+[2023.04.27-12.46.17:573][306]LogWorld: Bringing World /Game/UI/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2023.04.27-06.46.17
+[2023.04.27-12.46.17:573][306]LogWorld: Bringing up level for play took: 0.000880
+[2023.04.27-12.46.17:576][306]LogOnline: OSS: Created online subsystem instance for: :Context_218
+[2023.04.27-12.46.17:578][306]PIE: Server logged in
+[2023.04.27-12.46.17:579][306]PIE: Play in editor total start time 0.144 seconds.
+[2023.04.27-12.46.17:581][306]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.17:626][307]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.17:635][308]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.17:643][309]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.17:660][310]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.17:676][311]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.17:693][312]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.17:710][313]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.17:726][314]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.17:743][315]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.17:759][316]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.17:778][317]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.17:794][318]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.17:809][319]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.17:827][320]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.17:844][321]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.17:862][322]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.17:878][323]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.17:894][324]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.17:910][325]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.17:927][326]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.17:944][327]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.17:960][328]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.17:977][329]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.17:994][330]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.18:011][331]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.18:028][332]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.18:043][333]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.18:059][334]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.18:075][335]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.18:092][336]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.18:110][337]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.18:128][338]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.18:144][339]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.18:160][340]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.18:177][341]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.18:193][342]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.18:210][343]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.18:227][344]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.18:243][345]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.18:261][346]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.18:277][347]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.18:294][348]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.18:310][349]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.18:327][350]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.18:343][351]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.18:360][352]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.18:377][353]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.18:394][354]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.18:410][355]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.18:427][356]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.18:443][357]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.18:461][358]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.18:477][359]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.18:495][360]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.18:511][361]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.18:528][362]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.18:545][363]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.18:561][364]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.18:578][365]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.18:594][366]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.18:611][367]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.18:627][368]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.18:644][369]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.18:661][370]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.18:678][371]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.18:696][372]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.18:713][373]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.18:729][374]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.18:744][375]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.18:761][376]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.18:779][377]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.18:796][378]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.18:812][379]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.18:828][380]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.18:845][381]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.18:862][382]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.18:878][383]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.18:895][384]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.18:911][385]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.18:928][386]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.18:945][387]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.18:961][388]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.18:978][389]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.18:994][390]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.19:011][391]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.19:027][392]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.19:044][393]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.19:061][394]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.19:078][395]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.19:093][396]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.19:112][397]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.19:146][399]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.19:161][400]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.19:169][401]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.19:182][402]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.19:199][403]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.19:216][404]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.19:232][405]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.19:249][406]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.19:266][407]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.19:281][408]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.19:297][409]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.19:314][410]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.19:330][411]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.19:347][412]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.19:364][413]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.19:379][414]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.19:396][415]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.19:412][416]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.19:429][417]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.19:447][418]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.19:463][419]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.19:480][420]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.19:496][421]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.19:512][422]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.19:529][423]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.19:545][424]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.19:562][425]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.19:580][426]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.19:595][427]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.19:612][428]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.19:629][429]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.19:644][430]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.19:661][431]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.19:677][432]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.19:693][433]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.19:710][434]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.19:727][435]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.19:744][436]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.19:761][437]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.19:778][438]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.19:794][439]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.19:811][440]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.19:827][441]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.19:844][442]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.19:860][443]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.19:876][444]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.19:893][445]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.19:909][446]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.19:926][447]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.19:942][448]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.19:959][449]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.19:975][450]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.19:992][451]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.20:008][452]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.20:025][453]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.20:041][454]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.20:058][455]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.20:074][456]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.20:091][457]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.20:109][458]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.20:125][459]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.20:141][460]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.20:158][461]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.20:174][462]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.20:194][463]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.20:207][464]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.20:223][465]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.20:240][466]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.20:259][467]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.20:274][468]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.20:290][469]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.20:306][470]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.20:323][471]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.20:338][472]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.20:355][473]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.20:371][474]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.20:388][475]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.20:405][476]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.20:421][477]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.20:438][478]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.20:456][479]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.20:474][480]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.20:498][481]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.20:508][482]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.20:521][483]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.20:537][484]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.20:554][485]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.20:570][486]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.20:586][487]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.20:604][488]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.20:620][489]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.20:638][490]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.20:653][491]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.20:670][492]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.20:686][493]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.20:704][494]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.20:719][495]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.20:736][496]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.20:752][497]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.20:769][498]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.20:787][499]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.20:804][500]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.20:820][501]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.20:838][502]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.20:854][503]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.20:871][504]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.20:887][505]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.20:908][506]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.20:933][507]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.20:943][508]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.20:954][509]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.20:970][510]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.20:986][511]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.21:003][512]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.21:019][513]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.21:036][514]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.21:052][515]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.21:069][516]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.21:085][517]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.21:103][518]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.21:121][519]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.21:141][520]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.21:167][521]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.21:177][522]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.21:187][523]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.21:203][524]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.21:220][525]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.21:237][526]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.21:253][527]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.21:327][533]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] Hello
+[2023.04.27-12.46.21:368][533]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.27-12.46.21:368][533]LogWorld: BeginTearingDown for /Game/UI/UEDPIE_0_MainMenu
+[2023.04.27-12.46.21:369][533]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.04.27-12.46.21:369][533]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.27-12.46.21:438][533]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.27-12.46.21:445][533]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.27-12.46.21:535][533]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.27-12.46.21:536][533]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=192
+[2023.04.27-12.46.21:538][533]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=192
+[2023.04.27-12.46.21:542][533]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.27-12.46.21:545][533]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.04.27-12.46.21:579][534]LogPlayLevel: Display: Destroying online subsystem :Context_218
+[2023.04.27-12.46.34:072][521]BlueprintLog: New page: Compile BP_PlayerMenu
+[2023.04.27-12.46.34:223][521]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.04.27-12.46.34:861][559]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.27-12.46.34:936][559]LogSavePackage: Moving output files for package: /Game/UI/Blueprints/BP_PlayerMenu
+[2023.04.27-12.46.34:937][559]LogSavePackage: Moving '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Saved/BP_PlayerMenuD8EE75624DE715389271A59EB8AAEDD1.tmp' to '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Content/UI/Blueprints/BP_PlayerMenu.uasset'
+[2023.04.27-12.46.34:947][559]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 20.2 sec)
+[2023.04.27-12.46.34:954][559]AssetCheck: New page: Asset Save: BP_PlayerMenu
+[2023.04.27-12.46.34:954][559]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/UI/Blueprints/BP_PlayerMenu.BP_PlayerMenu
+[2023.04.27-12.46.36:175][638]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.27-12.46.36:183][638]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.27-12.46.36:183][638]PIE: New page: PIE session: MainMenu (Apr 27, 2023, 1:46:36 AM)
+[2023.04.27-12.46.36:184][638]LogPlayLevel: Creating play world package: /Game/UI/UEDPIE_0_MainMenu
+[2023.04.27-12.46.36:186][638]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002777s)
+[2023.04.27-12.46.36:186][638]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UI/MainMenu.MainMenu to /Game/UI/UEDPIE_0_MainMenu.MainMenu (0.002825s)
+[2023.04.27-12.46.36:187][638]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.27-12.46.36:187][638]LogAIModule: Creating AISystem for world MainMenu
+[2023.04.27-12.46.36:187][638]LogPlayLevel: PIE: World Init took: (0.000902s)
+[2023.04.27-12.46.36:279][638]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2023.04.27-12.46.36:282][638]LogAudio: Display: Creating Audio Device:                 Id: 193, Scope: Unique, Realtime: True
+[2023.04.27-12.46.36:282][638]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.27-12.46.36:282][638]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.27-12.46.36:282][638]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.27-12.46.36:282][638]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.27-12.46.36:282][638]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.27-12.46.36:282][638]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.27-12.46.36:282][638]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.27-12.46.36:282][638]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.27-12.46.36:283][638]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.27-12.46.36:283][638]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.27-12.46.36:283][638]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.27-12.46.36:286][638]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.27-12.46.36:308][638]LogAudioMixer: Display: Using Audio Hardware Device Digital Audio (S/PDIF) (High Definition Audio Device)
+[2023.04.27-12.46.36:308][638]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.27-12.46.36:309][638]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.27-12.46.36:309][638]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.27-12.46.36:309][638]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=193
+[2023.04.27-12.46.36:309][638]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=193
+[2023.04.27-12.46.36:312][638]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=193
+[2023.04.27-12.46.36:312][638]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=193
+[2023.04.27-12.46.36:312][638]LogInit: FAudioDevice initialized.
+[2023.04.27-12.46.36:312][638]LogAudio: Display: Audio Device (ID: 193) registered with world 'MainMenu'.
+[2023.04.27-12.46.36:314][638]LogLoad: Game class is 'BP_GameModeMenu_C'
+[2023.04.27-12.46.36:315][638]LogWorld: Bringing World /Game/UI/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2023.04.27-06.46.36
+[2023.04.27-12.46.36:315][638]LogWorld: Bringing up level for play took: 0.000897
+[2023.04.27-12.46.36:317][638]LogOnline: OSS: Created online subsystem instance for: :Context_219
+[2023.04.27-12.46.36:319][638]PIE: Server logged in
+[2023.04.27-12.46.36:320][638]PIE: Play in editor total start time 0.137 seconds.
+[2023.04.27-12.46.36:322][638]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.36:376][639]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.36:385][640]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.36:395][641]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.36:412][642]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.36:429][643]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.36:446][644]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.36:465][645]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.36:481][646]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.36:497][647]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.36:513][648]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.36:530][649]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.36:546][650]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.36:563][651]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.36:579][652]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.36:596][653]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.36:612][654]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.36:628][655]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.36:645][656]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.36:662][657]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.36:678][658]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.36:694][659]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.36:710][660]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.36:727][661]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.36:743][662]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.36:760][663]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.36:776][664]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.36:794][665]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.36:811][666]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.36:828][667]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.36:844][668]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.36:861][669]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.36:877][670]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.36:894][671]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.36:910][672]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.36:926][673]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.36:943][674]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.36:959][675]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.36:975][676]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.36:992][677]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.37:008][678]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.37:024][679]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.37:041][680]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.37:058][681]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.37:074][682]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.37:090][683]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.37:107][684]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.37:125][685]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.37:142][686]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.37:158][687]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.37:174][688]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.37:193][689]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.37:210][690]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.37:226][691]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.37:242][692]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.37:258][693]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.37:274][694]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.37:291][695]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.37:307][696]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.37:323][697]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.37:340][698]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.37:357][699]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.37:373][700]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.37:390][701]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.37:405][702]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.37:422][703]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.37:438][704]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.37:456][705]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.37:473][706]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.37:490][707]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.37:506][708]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.37:523][709]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.37:540][710]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.37:556][711]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.37:573][712]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.37:590][713]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.37:606][714]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.37:622][715]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.37:639][716]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.37:655][717]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.37:671][718]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.37:687][719]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.37:704][720]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.37:720][721]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.37:736][722]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.37:753][723]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.37:769][724]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.37:787][725]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.37:804][726]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.37:820][727]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.37:836][728]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.37:852][729]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.37:869][730]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.37:885][731]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.37:902][732]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.37:918][733]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.37:934][734]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.37:951][735]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.37:983][737]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.37:999][738]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.38:010][739]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.38:021][740]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.38:037][741]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] false
+[2023.04.27-12.46.38:054][742]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.38:070][743]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.38:086][744]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.38:103][745]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.38:121][746]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.38:138][747]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.38:153][748]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.38:170][749]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.38:186][750]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.38:202][751]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.38:219][752]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.38:235][753]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.38:251][754]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.38:267][755]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.38:285][756]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.38:300][757]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.38:316][758]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.38:333][759]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.38:349][760]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.38:366][761]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.38:382][762]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.38:398][763]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.38:414][764]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.38:430][765]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.38:447][766]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.38:465][767]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.38:483][768]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.38:498][769]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.38:515][770]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.38:530][771]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.38:546][772]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.38:563][773]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.38:579][774]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.38:596][775]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.38:612][776]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.38:628][777]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.38:644][778]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.38:661][779]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.38:677][780]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.38:694][781]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.38:710][782]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.38:726][783]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.38:743][784]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.38:759][785]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.38:775][786]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.38:793][787]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.38:810][788]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.38:826][789]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.38:843][790]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.38:859][791]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.38:875][792]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.38:891][793]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.38:909][794]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.38:926][795]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.38:942][796]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.38:959][797]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.38:974][798]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.38:990][799]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.39:006][800]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.39:023][801]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.39:039][802]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.39:055][803]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.39:072][804]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.39:088][805]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.39:105][806]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.39:122][807]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.39:139][808]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.39:155][809]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.39:172][810]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.39:188][811]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.39:205][812]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.39:221][813]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.39:238][814]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.39:253][815]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.39:272][816]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.39:287][817]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.39:304][818]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.39:318][819]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.39:334][820]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.39:351][821]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.39:367][822]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.39:383][823]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.39:400][824]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.39:416][825]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.39:435][826]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.39:449][827]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.39:468][828]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.39:484][829]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.39:501][830]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.39:516][831]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.39:533][832]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.39:549][833]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.39:566][834]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.39:582][835]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.39:599][836]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.39:615][837]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.39:632][838]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.39:649][839]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.39:664][840]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.39:683][841]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.39:698][842]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.39:716][843]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.39:730][844]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.39:746][845]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.39:763][846]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.39:780][847]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.39:797][848]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.39:814][849]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.39:830][850]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.39:849][851]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.39:863][852]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.39:879][853]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.39:895][854]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.39:911][855]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.39:928][856]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.39:944][857]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.39:961][858]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.39:977][859]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.39:997][860]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.40:016][861]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.40:026][862]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.40:042][863]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.40:059][864]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.40:075][865]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.40:091][866]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.40:108][867]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.40:126][868]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.40:143][869]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.40:158][870]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.40:178][871]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.40:195][872]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.40:210][873]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.40:227][874]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.40:244][875]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.40:316][881]LogBlueprintUserMessages: [BP_PlayerMenu_C_0] true
+[2023.04.27-12.46.40:348][881]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.27-12.46.40:349][881]LogWorld: BeginTearingDown for /Game/UI/UEDPIE_0_MainMenu
+[2023.04.27-12.46.40:349][881]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.04.27-12.46.40:349][881]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.27-12.46.40:385][881]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.27-12.46.40:392][881]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.27-12.46.40:487][881]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.27-12.46.40:488][881]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=193
+[2023.04.27-12.46.40:489][881]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=193
+[2023.04.27-12.46.40:494][881]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.27-12.46.40:496][881]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.04.27-12.46.40:530][882]LogPlayLevel: Display: Destroying online subsystem :Context_219
+[2023.04.27-12.46.46:037][370]LogEditorTransaction: Undo Create Pin Link
+[2023.04.27-12.46.46:665][387]LogEditorTransaction: Undo Create Pin Link
+[2023.04.27-12.46.47:126][437]LogEditorTransaction: Undo Move Node
+[2023.04.27-12.46.47:465][474]LogEditorTransaction: Undo Change Bool Pin Value
+[2023.04.27-12.47.12:457][ 56]BlueprintLog: New page: Compile BP_PlayerMenu
+[2023.04.27-12.47.12:601][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.04.27-12.47.33:697][374]BlueprintLog: New page: Compile BP_PlayerMenu
+[2023.04.27-12.47.33:846][374]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2023.04.27-12.47.34:370][395]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.27-12.47.34:438][395]LogSavePackage: Moving output files for package: /Game/UI/Blueprints/BP_PlayerMenu
+[2023.04.27-12.47.34:439][395]LogSavePackage: Moving '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Saved/BP_PlayerMenu682CCFE24B8847D1E705A5B9DA67BBD6.tmp' to '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Content/UI/Blueprints/BP_PlayerMenu.uasset'
+[2023.04.27-12.47.34:449][395]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 20.2 sec)
+[2023.04.27-12.47.34:457][395]AssetCheck: New page: Asset Save: BP_PlayerMenu
+[2023.04.27-12.47.34:457][395]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/UI/Blueprints/BP_PlayerMenu.BP_PlayerMenu
+[2023.04.27-12.47.35:628][460]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.27-12.47.35:636][460]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.04.27-12.47.35:637][460]LogPlayLevel: [PlayLevel] Compiling BPW_MenuPrincipal before play...
+[2023.04.27-12.47.35:807][460]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.04.27-12.47.35:810][460]LogPlayLevel: PlayLevel: Blueprint regeneration took 173 ms (1 blueprints)
+[2023.04.27-12.47.35:810][460]PIE: New page: PIE session: MainMenu (Apr 27, 2023, 1:47:35 AM)
+[2023.04.27-12.47.35:810][460]LogPlayLevel: Creating play world package: /Game/UI/UEDPIE_0_MainMenu
+[2023.04.27-12.47.35:813][460]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002783s)
+[2023.04.27-12.47.35:813][460]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UI/MainMenu.MainMenu to /Game/UI/UEDPIE_0_MainMenu.MainMenu (0.002830s)
+[2023.04.27-12.47.35:813][460]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.27-12.47.35:814][460]LogAIModule: Creating AISystem for world MainMenu
+[2023.04.27-12.47.35:814][460]LogPlayLevel: PIE: World Init took: (0.001267s)
+[2023.04.27-12.47.35:920][460]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2023.04.27-12.47.35:922][460]LogAudio: Display: Creating Audio Device:                 Id: 194, Scope: Unique, Realtime: True
+[2023.04.27-12.47.35:922][460]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.27-12.47.35:922][460]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.27-12.47.35:922][460]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.27-12.47.35:922][460]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.27-12.47.35:922][460]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.27-12.47.35:922][460]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.27-12.47.35:922][460]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.27-12.47.35:922][460]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.27-12.47.35:923][460]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.27-12.47.35:923][460]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.27-12.47.35:923][460]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.27-12.47.35:926][460]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.27-12.47.35:953][460]LogAudioMixer: Display: Using Audio Hardware Device Digital Audio (S/PDIF) (High Definition Audio Device)
+[2023.04.27-12.47.35:954][460]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.27-12.47.35:954][460]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.27-12.47.35:954][460]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.27-12.47.35:955][460]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=194
+[2023.04.27-12.47.35:955][460]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=194
+[2023.04.27-12.47.35:957][460]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=194
+[2023.04.27-12.47.35:957][460]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=194
+[2023.04.27-12.47.35:957][460]LogInit: FAudioDevice initialized.
+[2023.04.27-12.47.35:957][460]LogAudio: Display: Audio Device (ID: 194) registered with world 'MainMenu'.
+[2023.04.27-12.47.35:961][460]LogLoad: Game class is 'BP_GameModeMenu_C'
+[2023.04.27-12.47.35:962][460]LogWorld: Bringing World /Game/UI/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2023.04.27-06.47.35
+[2023.04.27-12.47.35:962][460]LogWorld: Bringing up level for play took: 0.000947
+[2023.04.27-12.47.35:964][460]LogOnline: OSS: Created online subsystem instance for: :Context_220
+[2023.04.27-12.47.35:966][460]PIE: Server logged in
+[2023.04.27-12.47.35:967][460]PIE: Play in editor total start time 0.33 seconds.
+[2023.04.27-12.47.42:459][855]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.27-12.47.42:459][855]LogWorld: BeginTearingDown for /Game/UI/UEDPIE_0_MainMenu
+[2023.04.27-12.47.42:459][855]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.04.27-12.47.42:459][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.27-12.47.42:501][855]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.27-12.47.42:508][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.27-12.47.42:606][855]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.27-12.47.42:607][855]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=194
+[2023.04.27-12.47.42:609][855]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=194
+[2023.04.27-12.47.42:617][855]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.04.27-12.47.42:669][856]LogPlayLevel: Display: Destroying online subsystem :Context_220
+[2023.04.27-12.47.44:312][929]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.27-12.47.44:323][929]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.27-12.47.44:323][929]PIE: New page: PIE session: MainMenu (Apr 27, 2023, 1:47:44 AM)
+[2023.04.27-12.47.44:324][929]LogPlayLevel: Creating play world package: /Game/UI/UEDPIE_0_MainMenu
+[2023.04.27-12.47.44:328][929]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004175s)
+[2023.04.27-12.47.44:328][929]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UI/MainMenu.MainMenu to /Game/UI/UEDPIE_0_MainMenu.MainMenu (0.004235s)
+[2023.04.27-12.47.44:328][929]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.27-12.47.44:329][929]LogAIModule: Creating AISystem for world MainMenu
+[2023.04.27-12.47.44:329][929]LogPlayLevel: PIE: World Init took: (0.001266s)
+[2023.04.27-12.47.44:432][929]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.04.27-12.47.44:435][929]LogAudio: Display: Creating Audio Device:                 Id: 195, Scope: Unique, Realtime: True
+[2023.04.27-12.47.44:436][929]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.27-12.47.44:436][929]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.27-12.47.44:436][929]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.27-12.47.44:436][929]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.27-12.47.44:436][929]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.27-12.47.44:436][929]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.27-12.47.44:436][929]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.27-12.47.44:436][929]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.27-12.47.44:437][929]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.27-12.47.44:437][929]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.27-12.47.44:437][929]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.27-12.47.44:439][929]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.27-12.47.44:464][929]LogAudioMixer: Display: Using Audio Hardware Device Digital Audio (S/PDIF) (High Definition Audio Device)
+[2023.04.27-12.47.44:464][929]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.27-12.47.44:464][929]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.27-12.47.44:464][929]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.27-12.47.44:465][929]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=195
+[2023.04.27-12.47.44:465][929]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=195
+[2023.04.27-12.47.44:467][929]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=195
+[2023.04.27-12.47.44:467][929]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=195
+[2023.04.27-12.47.44:467][929]LogInit: FAudioDevice initialized.
+[2023.04.27-12.47.44:467][929]LogAudio: Display: Audio Device (ID: 195) registered with world 'MainMenu'.
+[2023.04.27-12.47.44:470][929]LogLoad: Game class is 'BP_GameModeMenu_C'
+[2023.04.27-12.47.44:471][929]LogWorld: Bringing World /Game/UI/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2023.04.27-06.47.44
+[2023.04.27-12.47.44:471][929]LogWorld: Bringing up level for play took: 0.000873
+[2023.04.27-12.47.44:474][929]LogOnline: OSS: Created online subsystem instance for: :Context_221
+[2023.04.27-12.47.44:476][929]PIE: Server logged in
+[2023.04.27-12.47.44:477][929]PIE: Play in editor total start time 0.154 seconds.
+[2023.04.27-12.47.59:798][857]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.27-12.47.59:798][857]LogWorld: BeginTearingDown for /Game/UI/UEDPIE_0_MainMenu
+[2023.04.27-12.47.59:798][857]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.04.27-12.47.59:798][857]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.27-12.47.59:805][857]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.27-12.47.59:812][857]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.27-12.47.59:905][857]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.27-12.47.59:905][857]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=195
+[2023.04.27-12.47.59:907][857]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=195
+[2023.04.27-12.47.59:914][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.04.27-12.47.59:946][858]LogPlayLevel: Display: Destroying online subsystem :Context_221
+[2023.04.27-12.48.20:719][842]BlueprintLog: New page: Compile BPW_MenuPrincipal
+[2023.04.27-12.48.20:879][842]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.04.27-12.48.24:621][246]BlueprintLog: New page: Compile BPW_MenuPrincipal
+[2023.04.27-12.48.24:785][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.04.27-12.48.25:330][296]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.27-12.48.25:405][296]LogSavePackage: Moving output files for package: /Game/UI/Widgets/BPW_MenuPrincipal
+[2023.04.27-12.48.25:406][296]LogSavePackage: Moving '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Saved/BPW_MenuPrincipal19BF0A36411357A4AB541BA3C83954A2.tmp' to '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Content/UI/Widgets/BPW_MenuPrincipal.uasset'
+[2023.04.27-12.48.25:415][296]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 20.3 sec)
+[2023.04.27-12.48.25:422][296]AssetCheck: New page: Asset Save: BPW_MenuPrincipal
+[2023.04.27-12.48.25:422][296]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Widgets/BPW_MenuPrincipal.BPW_MenuPrincipal
+[2023.04.27-12.48.29:505][667]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.27-12.48.29:514][667]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.27-12.48.29:514][667]PIE: New page: PIE session: MainMenu (Apr 27, 2023, 1:48:29 AM)
+[2023.04.27-12.48.29:514][667]LogPlayLevel: Creating play world package: /Game/UI/UEDPIE_0_MainMenu
+[2023.04.27-12.48.29:517][667]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002908s)
+[2023.04.27-12.48.29:517][667]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UI/MainMenu.MainMenu to /Game/UI/UEDPIE_0_MainMenu.MainMenu (0.002959s)
+[2023.04.27-12.48.29:518][667]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.27-12.48.29:518][667]LogAIModule: Creating AISystem for world MainMenu
+[2023.04.27-12.48.29:519][667]LogPlayLevel: PIE: World Init took: (0.001365s)
+[2023.04.27-12.48.29:614][667]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.04.27-12.48.29:618][667]LogAudio: Display: Creating Audio Device:                 Id: 196, Scope: Unique, Realtime: True
+[2023.04.27-12.48.29:618][667]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.27-12.48.29:618][667]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.27-12.48.29:618][667]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.27-12.48.29:618][667]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.27-12.48.29:618][667]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.27-12.48.29:618][667]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.27-12.48.29:618][667]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.27-12.48.29:618][667]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.27-12.48.29:619][667]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.27-12.48.29:619][667]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.27-12.48.29:619][667]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.27-12.48.29:621][667]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.27-12.48.29:645][667]LogAudioMixer: Display: Using Audio Hardware Device Digital Audio (S/PDIF) (High Definition Audio Device)
+[2023.04.27-12.48.29:645][667]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.27-12.48.29:645][667]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.27-12.48.29:645][667]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.27-12.48.29:646][667]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=196
+[2023.04.27-12.48.29:646][667]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=196
+[2023.04.27-12.48.29:648][667]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=196
+[2023.04.27-12.48.29:648][667]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=196
+[2023.04.27-12.48.29:648][667]LogInit: FAudioDevice initialized.
+[2023.04.27-12.48.29:648][667]LogAudio: Display: Audio Device (ID: 196) registered with world 'MainMenu'.
+[2023.04.27-12.48.29:651][667]LogLoad: Game class is 'BP_GameModeMenu_C'
+[2023.04.27-12.48.29:652][667]LogWorld: Bringing World /Game/UI/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2023.04.27-06.48.29
+[2023.04.27-12.48.29:652][667]LogWorld: Bringing up level for play took: 0.000787
+[2023.04.27-12.48.29:654][667]LogOnline: OSS: Created online subsystem instance for: :Context_222
+[2023.04.27-12.48.29:656][667]PIE: Server logged in
+[2023.04.27-12.48.29:657][667]PIE: Play in editor total start time 0.143 seconds.
+[2023.04.27-12.48.36:588][ 93]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.27-12.48.36:588][ 93]LogWorld: BeginTearingDown for /Game/UI/UEDPIE_0_MainMenu
+[2023.04.27-12.48.36:589][ 93]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.04.27-12.48.36:589][ 93]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.27-12.48.36:606][ 93]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.27-12.48.36:612][ 93]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.27-12.48.36:705][ 93]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.27-12.48.36:706][ 93]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=196
+[2023.04.27-12.48.36:708][ 93]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=196
+[2023.04.27-12.48.36:712][ 93]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.27-12.48.36:715][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2023.04.27-12.48.36:751][ 94]LogPlayLevel: Display: Destroying online subsystem :Context_222
+[2023.04.27-12.49.37:910][519]Cmd: TRANSACTION UNDO
+[2023.04.27-12.49.37:910][519]LogEditorTransaction: Undo Add New Function
+[2023.04.27-12.50.23:692][817]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.27-12.50.23:757][817]LogSavePackage: Moving output files for package: /Game/UI/Blueprints/BP_PlayerMenu
+[2023.04.27-12.50.23:758][817]LogSavePackage: Moving '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Saved/BP_PlayerMenuAEA7C7CE40E1295171DE1E92AB7E33DF.tmp' to '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Content/UI/Blueprints/BP_PlayerMenu.uasset'
+[2023.04.27-12.50.23:772][817]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 20.4 sec)
+[2023.04.27-12.50.23:780][817]AssetCheck: New page: Asset Save: BP_PlayerMenu
+[2023.04.27-12.50.23:780][817]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/UI/Blueprints/BP_PlayerMenu.BP_PlayerMenu
+[2023.04.27-12.50.30:454][497]LogEditorTransaction: Undo Create Pin Link
+[2023.04.27-12.50.30:825][502]LogEditorTransaction: Undo Delete current selection
+[2023.04.27-12.50.31:068][504]LogEditorTransaction: Undo Create Pin Link
+[2023.04.27-12.50.31:266][510]LogEditorTransaction: Undo Delete current selection
+[2023.04.27-12.50.31:919][562]LogEditorTransaction: Undo Rename Node
+[2023.04.27-12.50.32:461][605]LogEditorTransaction: Undo Rename Node
+[2023.04.27-12.50.32:831][630]LogEditorTransaction: Undo Move Node
+[2023.04.27-12.50.33:982][736]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.27-12.50.34:042][736]LogSavePackage: Moving output files for package: /Game/UI/Blueprints/BP_PlayerMenu
+[2023.04.27-12.50.34:044][736]LogSavePackage: Moving '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Saved/BP_PlayerMenu0AED665C445CD246B758BBB5E3D5B3AB.tmp' to '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Content/UI/Blueprints/BP_PlayerMenu.uasset'
+[2023.04.27-12.50.34:056][736]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 20.5 sec)
+[2023.04.27-12.50.34:065][736]AssetCheck: New page: Asset Save: BP_PlayerMenu
+[2023.04.27-12.50.34:065][736]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/UI/Blueprints/BP_PlayerMenu.BP_PlayerMenu
+[2023.04.27-12.50.35:511][862]BlueprintLog: New page: Compile BP_PlayerMenu
+[2023.04.27-12.50.35:675][862]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.04.27-12.51.08:508][994]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.27-12.51.08:583][994]LogSavePackage: Moving output files for package: /Game/UI/Blueprints/BP_PlayerMenu
+[2023.04.27-12.51.08:585][994]LogSavePackage: Moving '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Saved/BP_PlayerMenu4CD34A93404BEDED42638D939D17F60C.tmp' to '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Content/UI/Blueprints/BP_PlayerMenu.uasset'
+[2023.04.27-12.51.08:600][994]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 20.6 sec)
+[2023.04.27-12.51.08:608][994]AssetCheck: New page: Asset Save: BP_PlayerMenu
+[2023.04.27-12.51.08:608][994]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/UI/Blueprints/BP_PlayerMenu.BP_PlayerMenu
+[2023.04.27-12.51.36:610][480]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.27-12.51.36:693][480]LogSavePackage: Moving output files for package: /Game/UI/Blueprints/BP_PlayerMenu
+[2023.04.27-12.51.36:694][480]LogSavePackage: Moving '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Saved/BP_PlayerMenu395D838543A615615420B79AC339E610.tmp' to '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Content/UI/Blueprints/BP_PlayerMenu.uasset'
+[2023.04.27-12.51.36:705][480]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 20.7 sec)
+[2023.04.27-12.51.36:712][480]AssetCheck: New page: Asset Save: BP_PlayerMenu
+[2023.04.27-12.51.36:712][480]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/UI/Blueprints/BP_PlayerMenu.BP_PlayerMenu
+[2023.04.27-12.51.37:925][574]BlueprintLog: New page: Compile BP_PlayerMenu
+[2023.04.27-12.51.38:065][574]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.04.27-12.51.42:373][858]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.27-12.51.42:381][858]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.27-12.51.42:381][858]PIE: New page: PIE session: MainMenu (Apr 27, 2023, 1:51:42 AM)
+[2023.04.27-12.51.42:381][858]LogPlayLevel: Creating play world package: /Game/UI/UEDPIE_0_MainMenu
+[2023.04.27-12.51.42:384][858]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002839s)
+[2023.04.27-12.51.42:384][858]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UI/MainMenu.MainMenu to /Game/UI/UEDPIE_0_MainMenu.MainMenu (0.002887s)
+[2023.04.27-12.51.42:384][858]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.27-12.51.42:385][858]LogAIModule: Creating AISystem for world MainMenu
+[2023.04.27-12.51.42:385][858]LogPlayLevel: PIE: World Init took: (0.001249s)
+[2023.04.27-12.51.42:482][858]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.04.27-12.51.42:485][858]LogAudio: Display: Creating Audio Device:                 Id: 197, Scope: Unique, Realtime: True
+[2023.04.27-12.51.42:485][858]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.27-12.51.42:485][858]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.27-12.51.42:485][858]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.27-12.51.42:486][858]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.27-12.51.42:486][858]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.27-12.51.42:486][858]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.27-12.51.42:486][858]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.27-12.51.42:486][858]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.27-12.51.42:486][858]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.27-12.51.42:487][858]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.27-12.51.42:487][858]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.27-12.51.42:489][858]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.27-12.51.42:513][858]LogAudioMixer: Display: Using Audio Hardware Device Digital Audio (S/PDIF) (High Definition Audio Device)
+[2023.04.27-12.51.42:513][858]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.27-12.51.42:513][858]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.27-12.51.42:513][858]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.27-12.51.42:514][858]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=197
+[2023.04.27-12.51.42:514][858]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=197
+[2023.04.27-12.51.42:516][858]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=197
+[2023.04.27-12.51.42:516][858]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=197
+[2023.04.27-12.51.42:516][858]LogInit: FAudioDevice initialized.
+[2023.04.27-12.51.42:516][858]LogAudio: Display: Audio Device (ID: 197) registered with world 'MainMenu'.
+[2023.04.27-12.51.42:518][858]LogLoad: Game class is 'BP_GameModeMenu_C'
+[2023.04.27-12.51.42:519][858]LogWorld: Bringing World /Game/UI/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2023.04.27-06.51.42
+[2023.04.27-12.51.42:520][858]LogWorld: Bringing up level for play took: 0.001008
+[2023.04.27-12.51.42:522][858]LogOnline: OSS: Created online subsystem instance for: :Context_223
+[2023.04.27-12.51.42:524][858]PIE: Server logged in
+[2023.04.27-12.51.42:525][858]PIE: Play in editor total start time 0.144 seconds.
+[2023.04.27-12.51.50:979][368]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.27-12.51.50:979][368]LogWorld: BeginTearingDown for /Game/UI/UEDPIE_0_MainMenu
+[2023.04.27-12.51.50:979][368]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.04.27-12.51.50:979][368]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.27-12.51.51:021][368]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.27-12.51.51:028][368]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.27-12.51.51:119][368]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.27-12.51.51:119][368]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=197
+[2023.04.27-12.51.51:121][368]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=197
+[2023.04.27-12.51.51:126][368]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.27-12.51.51:129][368]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2023.04.27-12.51.51:177][369]LogPlayLevel: Display: Destroying online subsystem :Context_223
+[2023.04.27-12.51.53:988][494]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.27-12.51.53:996][494]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.27-12.51.53:996][494]PIE: New page: PIE session: MainMenu (Apr 27, 2023, 1:51:53 AM)
+[2023.04.27-12.51.53:996][494]LogPlayLevel: Creating play world package: /Game/UI/UEDPIE_0_MainMenu
+[2023.04.27-12.51.53:999][494]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002787s)
+[2023.04.27-12.51.53:999][494]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UI/MainMenu.MainMenu to /Game/UI/UEDPIE_0_MainMenu.MainMenu (0.002836s)
+[2023.04.27-12.51.53:999][494]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.27-12.51.54:000][494]LogAIModule: Creating AISystem for world MainMenu
+[2023.04.27-12.51.54:000][494]LogPlayLevel: PIE: World Init took: (0.000994s)
+[2023.04.27-12.51.54:094][494]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2023.04.27-12.51.54:097][494]LogAudio: Display: Creating Audio Device:                 Id: 198, Scope: Unique, Realtime: True
+[2023.04.27-12.51.54:097][494]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.27-12.51.54:097][494]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.27-12.51.54:097][494]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.27-12.51.54:097][494]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.27-12.51.54:097][494]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.27-12.51.54:097][494]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.27-12.51.54:097][494]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.27-12.51.54:097][494]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.27-12.51.54:098][494]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.27-12.51.54:098][494]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.27-12.51.54:098][494]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.27-12.51.54:100][494]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.27-12.51.54:124][494]LogAudioMixer: Display: Using Audio Hardware Device Digital Audio (S/PDIF) (High Definition Audio Device)
+[2023.04.27-12.51.54:124][494]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.27-12.51.54:124][494]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.27-12.51.54:124][494]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.27-12.51.54:125][494]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=198
+[2023.04.27-12.51.54:125][494]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=198
+[2023.04.27-12.51.54:127][494]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=198
+[2023.04.27-12.51.54:127][494]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=198
+[2023.04.27-12.51.54:127][494]LogInit: FAudioDevice initialized.
+[2023.04.27-12.51.54:127][494]LogAudio: Display: Audio Device (ID: 198) registered with world 'MainMenu'.
+[2023.04.27-12.51.54:129][494]LogLoad: Game class is 'BP_GameModeMenu_C'
+[2023.04.27-12.51.54:130][494]LogWorld: Bringing World /Game/UI/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2023.04.27-06.51.54
+[2023.04.27-12.51.54:130][494]LogWorld: Bringing up level for play took: 0.000835
+[2023.04.27-12.51.54:132][494]LogOnline: OSS: Created online subsystem instance for: :Context_224
+[2023.04.27-12.51.54:134][494]PIE: Server logged in
+[2023.04.27-12.51.54:135][494]PIE: Play in editor total start time 0.14 seconds.
+[2023.04.27-12.51.58:928][784]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.27-12.52.01:998][965]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.27-12.52.01:998][965]LogWorld: BeginTearingDown for /Game/UI/UEDPIE_0_MainMenu
+[2023.04.27-12.52.01:999][965]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.04.27-12.52.01:999][965]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.27-12.52.02:006][965]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.27-12.52.02:013][965]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.27-12.52.02:106][965]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.27-12.52.02:106][965]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=198
+[2023.04.27-12.52.02:108][965]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=198
+[2023.04.27-12.52.02:114][965]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.04.27-12.52.02:145][966]LogPlayLevel: Display: Destroying online subsystem :Context_224
+[2023.04.27-12.52.47:477][988]BlueprintLog: New page: Compile BP_PlayerMenu
+[2023.04.27-12.52.47:485][988]LogBlueprint: Error: [AssetLog] C:\Users\ALUMNOS\Documents\Unreal Projects\AmongTheStars\AmongTheStars\Content\UI\Blueprints\BP_PlayerMenu.uasset: [Compiler] Could not find a function named "Credits" in 'BP_PlayerMenu_C'.
+Make sure 'BP_PlayerMenu_C' has been compiled for  Credits
+[2023.04.27-12.52.47:614][988]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2023.04.27-12.52.53:704][546]BlueprintLog: New page: Compile BP_PlayerMenu
+[2023.04.27-12.52.53:842][546]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2023.04.27-12.52.55:302][623]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.27-12.52.55:310][623]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.27-12.52.55:310][623]PIE: New page: PIE session: MainMenu (Apr 27, 2023, 1:52:55 AM)
+[2023.04.27-12.52.55:310][623]LogPlayLevel: Creating play world package: /Game/UI/UEDPIE_0_MainMenu
+[2023.04.27-12.52.55:313][623]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002649s)
+[2023.04.27-12.52.55:313][623]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UI/MainMenu.MainMenu to /Game/UI/UEDPIE_0_MainMenu.MainMenu (0.002693s)
+[2023.04.27-12.52.55:313][623]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.27-12.52.55:313][623]LogAIModule: Creating AISystem for world MainMenu
+[2023.04.27-12.52.55:314][623]LogPlayLevel: PIE: World Init took: (0.000917s)
+[2023.04.27-12.52.55:407][623]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2023.04.27-12.52.55:410][623]LogAudio: Display: Creating Audio Device:                 Id: 199, Scope: Unique, Realtime: True
+[2023.04.27-12.52.55:410][623]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.27-12.52.55:410][623]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.27-12.52.55:410][623]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.27-12.52.55:410][623]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.27-12.52.55:410][623]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.27-12.52.55:410][623]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.27-12.52.55:410][623]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.27-12.52.55:410][623]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.27-12.52.55:411][623]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.27-12.52.55:411][623]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.27-12.52.55:411][623]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.27-12.52.55:413][623]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.27-12.52.55:437][623]LogAudioMixer: Display: Using Audio Hardware Device Digital Audio (S/PDIF) (High Definition Audio Device)
+[2023.04.27-12.52.55:437][623]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.27-12.52.55:437][623]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.27-12.52.55:437][623]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.27-12.52.55:438][623]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=199
+[2023.04.27-12.52.55:438][623]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=199
+[2023.04.27-12.52.55:440][623]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=199
+[2023.04.27-12.52.55:440][623]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=199
+[2023.04.27-12.52.55:440][623]LogInit: FAudioDevice initialized.
+[2023.04.27-12.52.55:440][623]LogAudio: Display: Audio Device (ID: 199) registered with world 'MainMenu'.
+[2023.04.27-12.52.55:442][623]LogLoad: Game class is 'BP_GameModeMenu_C'
+[2023.04.27-12.52.55:443][623]LogWorld: Bringing World /Game/UI/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2023.04.27-06.52.55
+[2023.04.27-12.52.55:444][623]LogWorld: Bringing up level for play took: 0.000915
+[2023.04.27-12.52.55:446][623]LogOnline: OSS: Created online subsystem instance for: :Context_225
+[2023.04.27-12.52.55:448][623]PIE: Server logged in
+[2023.04.27-12.52.55:449][623]PIE: Play in editor total start time 0.139 seconds.
+[2023.04.27-12.52.58:708][821]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.27-12.52.58:708][821]LogWorld: BeginTearingDown for /Game/UI/UEDPIE_0_MainMenu
+[2023.04.27-12.52.58:708][821]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.04.27-12.52.58:708][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.27-12.52.58:749][821]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.27-12.52.58:756][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.27-12.52.58:849][821]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.27-12.52.58:849][821]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=199
+[2023.04.27-12.52.58:851][821]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=199
+[2023.04.27-12.52.58:856][821]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.27-12.52.58:858][821]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.04.27-12.52.58:910][822]LogPlayLevel: Display: Destroying online subsystem :Context_225
+[2023.04.27-12.53.07:300][526]BlueprintLog: New page: Compile BP_PlayerMenu
+[2023.04.27-12.53.07:442][526]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.04.27-12.53.08:154][565]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.27-12.53.08:228][565]LogSavePackage: Moving output files for package: /Game/UI/Blueprints/BP_PlayerMenu
+[2023.04.27-12.53.08:229][565]LogSavePackage: Moving '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Saved/BP_PlayerMenuF9B3BE0D45840150E7DA03B56E865378.tmp' to '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Content/UI/Blueprints/BP_PlayerMenu.uasset'
+[2023.04.27-12.53.08:238][565]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 20.7 sec)
+[2023.04.27-12.53.08:245][565]AssetCheck: New page: Asset Save: BP_PlayerMenu
+[2023.04.27-12.53.08:245][565]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/UI/Blueprints/BP_PlayerMenu.BP_PlayerMenu
+[2023.04.27-12.53.10:370][700]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.27-12.53.10:378][700]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.27-12.53.10:378][700]PIE: New page: PIE session: MainMenu (Apr 27, 2023, 1:53:10 AM)
+[2023.04.27-12.53.10:378][700]LogPlayLevel: Creating play world package: /Game/UI/UEDPIE_0_MainMenu
+[2023.04.27-12.53.10:381][700]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002867s)
+[2023.04.27-12.53.10:381][700]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UI/MainMenu.MainMenu to /Game/UI/UEDPIE_0_MainMenu.MainMenu (0.002914s)
+[2023.04.27-12.53.10:381][700]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.27-12.53.10:382][700]LogAIModule: Creating AISystem for world MainMenu
+[2023.04.27-12.53.10:382][700]LogPlayLevel: PIE: World Init took: (0.001060s)
+[2023.04.27-12.53.10:475][700]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.04.27-12.53.10:479][700]LogAudio: Display: Creating Audio Device:                 Id: 200, Scope: Unique, Realtime: True
+[2023.04.27-12.53.10:479][700]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.27-12.53.10:479][700]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.27-12.53.10:479][700]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.27-12.53.10:479][700]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.27-12.53.10:479][700]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.27-12.53.10:479][700]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.27-12.53.10:479][700]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.27-12.53.10:479][700]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.27-12.53.10:480][700]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.27-12.53.10:480][700]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.27-12.53.10:480][700]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.27-12.53.10:482][700]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.27-12.53.10:505][700]LogAudioMixer: Display: Using Audio Hardware Device Digital Audio (S/PDIF) (High Definition Audio Device)
+[2023.04.27-12.53.10:505][700]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.27-12.53.10:505][700]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.27-12.53.10:505][700]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.27-12.53.10:506][700]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=200
+[2023.04.27-12.53.10:506][700]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=200
+[2023.04.27-12.53.10:508][700]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=200
+[2023.04.27-12.53.10:508][700]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=200
+[2023.04.27-12.53.10:508][700]LogInit: FAudioDevice initialized.
+[2023.04.27-12.53.10:508][700]LogAudio: Display: Audio Device (ID: 200) registered with world 'MainMenu'.
+[2023.04.27-12.53.10:511][700]LogLoad: Game class is 'BP_GameModeMenu_C'
+[2023.04.27-12.53.10:512][700]LogWorld: Bringing World /Game/UI/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2023.04.27-06.53.10
+[2023.04.27-12.53.10:512][700]LogWorld: Bringing up level for play took: 0.000925
+[2023.04.27-12.53.10:515][700]LogOnline: OSS: Created online subsystem instance for: :Context_226
+[2023.04.27-12.53.10:516][700]PIE: Server logged in
+[2023.04.27-12.53.10:517][700]PIE: Play in editor total start time 0.14 seconds.
+[2023.04.27-12.53.15:928][ 35]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.27-12.53.15:928][ 35]LogWorld: BeginTearingDown for /Game/UI/UEDPIE_0_MainMenu
+[2023.04.27-12.53.15:929][ 35]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.04.27-12.53.15:929][ 35]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.27-12.53.15:962][ 35]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.27-12.53.15:969][ 35]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.27-12.53.16:062][ 35]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.27-12.53.16:062][ 35]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=200
+[2023.04.27-12.53.16:064][ 35]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=200
+[2023.04.27-12.53.16:068][ 35]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.27-12.53.16:071][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2023.04.27-12.53.16:104][ 36]LogPlayLevel: Display: Destroying online subsystem :Context_226
+[2023.04.27-12.54.12:802][615]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.27-12.54.12:849][615]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Widgets/BPW_Credits" FILE="../../../../../../Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Content/UI/Widgets/BPW_Credits.uasset" SILENT=true
+[2023.04.27-12.54.12:855][615]LogSavePackage: Moving output files for package: /Game/UI/Widgets/BPW_Credits
+[2023.04.27-12.54.12:857][615]LogSavePackage: Moving '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Saved/BPW_Credits89363A614531A8B3FA5B13B261F87A89.tmp' to '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Content/UI/Widgets/BPW_Credits.uasset'
+[2023.04.27-12.54.12:870][615]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 20.8 sec)
+[2023.04.27-12.54.12:880][615]AssetCheck: New page: Asset Save: BPW_Credits
+[2023.04.27-12.54.12:880][615]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Widgets/BPW_Credits.BPW_Credits
+[2023.04.27-12.54.13:511][688]BlueprintLog: New page: Compile BPW_Credits
+[2023.04.27-12.54.13:674][688]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.04.27-12.54.14:137][730]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.27-12.54.14:199][730]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Widgets/BPW_Credits" FILE="../../../../../../Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Content/UI/Widgets/BPW_Credits.uasset" SILENT=true
+[2023.04.27-12.54.14:206][730]LogSavePackage: Moving output files for package: /Game/UI/Widgets/BPW_Credits
+[2023.04.27-12.54.14:207][730]LogSavePackage: Moving '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Saved/BPW_Credits02F952D74BC7AE3A9BA031926693D8B6.tmp' to '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Content/UI/Widgets/BPW_Credits.uasset'
+[2023.04.27-12.54.14:217][730]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 20.9 sec)
+[2023.04.27-12.54.14:224][730]AssetCheck: New page: Asset Save: BPW_Credits
+[2023.04.27-12.54.14:224][730]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Widgets/BPW_Credits.BPW_Credits
+[2023.04.27-12.54.15:462][807]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.27-12.54.15:469][807]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.27-12.54.15:469][807]PIE: New page: PIE session: MainMenu (Apr 27, 2023, 1:54:15 AM)
+[2023.04.27-12.54.15:470][807]LogPlayLevel: Creating play world package: /Game/UI/UEDPIE_0_MainMenu
+[2023.04.27-12.54.15:472][807]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002857s)
+[2023.04.27-12.54.15:473][807]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UI/MainMenu.MainMenu to /Game/UI/UEDPIE_0_MainMenu.MainMenu (0.002902s)
+[2023.04.27-12.54.15:473][807]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.27-12.54.15:473][807]LogAIModule: Creating AISystem for world MainMenu
+[2023.04.27-12.54.15:474][807]LogPlayLevel: PIE: World Init took: (0.001124s)
+[2023.04.27-12.54.15:569][807]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2023.04.27-12.54.15:573][807]LogAudio: Display: Creating Audio Device:                 Id: 201, Scope: Unique, Realtime: True
+[2023.04.27-12.54.15:573][807]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.27-12.54.15:573][807]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.27-12.54.15:573][807]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.27-12.54.15:573][807]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.27-12.54.15:573][807]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.27-12.54.15:573][807]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.27-12.54.15:573][807]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.27-12.54.15:573][807]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.27-12.54.15:574][807]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.27-12.54.15:574][807]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.27-12.54.15:574][807]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.27-12.54.15:576][807]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.27-12.54.15:600][807]LogAudioMixer: Display: Using Audio Hardware Device Digital Audio (S/PDIF) (High Definition Audio Device)
+[2023.04.27-12.54.15:600][807]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.27-12.54.15:600][807]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.27-12.54.15:600][807]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.27-12.54.15:601][807]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=201
+[2023.04.27-12.54.15:601][807]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=201
+[2023.04.27-12.54.15:603][807]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=201
+[2023.04.27-12.54.15:603][807]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=201
+[2023.04.27-12.54.15:603][807]LogInit: FAudioDevice initialized.
+[2023.04.27-12.54.15:603][807]LogAudio: Display: Audio Device (ID: 201) registered with world 'MainMenu'.
+[2023.04.27-12.54.15:606][807]LogLoad: Game class is 'BP_GameModeMenu_C'
+[2023.04.27-12.54.15:607][807]LogWorld: Bringing World /Game/UI/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2023.04.27-06.54.15
+[2023.04.27-12.54.15:607][807]LogWorld: Bringing up level for play took: 0.000939
+[2023.04.27-12.54.15:609][807]LogOnline: OSS: Created online subsystem instance for: :Context_227
+[2023.04.27-12.54.15:611][807]PIE: Server logged in
+[2023.04.27-12.54.15:612][807]PIE: Play in editor total start time 0.143 seconds.
+[2023.04.27-12.54.21:109][138]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.27-12.54.21:109][138]LogWorld: BeginTearingDown for /Game/UI/UEDPIE_0_MainMenu
+[2023.04.27-12.54.21:109][138]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.04.27-12.54.21:109][138]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.27-12.54.21:140][138]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.27-12.54.21:147][138]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.27-12.54.21:239][138]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.27-12.54.21:240][138]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=201
+[2023.04.27-12.54.21:241][138]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=201
+[2023.04.27-12.54.21:246][138]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.27-12.54.21:249][138]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2023.04.27-12.54.21:283][139]LogPlayLevel: Display: Destroying online subsystem :Context_227
+[2023.04.27-12.54.50:878][848]LogBlueprint: Warning: [AssetLog] C:\Users\ALUMNOS\Documents\Unreal Projects\AmongTheStars\AmongTheStars\Content\UI\Blueprints\BP_PlayerMenu.uasset: [Compiler] Pasted node  CustomEvent_1   conflicted with  Event Tick  and was replaced as a Custom Event!
+[2023.04.27-12.55.14:358][872]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.27-12.55.14:429][872]LogSavePackage: Moving output files for package: /Game/UI/Blueprints/BP_PlayerMenu
+[2023.04.27-12.55.14:430][872]LogSavePackage: Moving '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Saved/BP_PlayerMenuA4C4B5734C7EA898578E29A450A19213.tmp' to '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Content/UI/Blueprints/BP_PlayerMenu.uasset'
+[2023.04.27-12.55.14:440][872]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 21.0 sec)
+[2023.04.27-12.55.14:447][872]AssetCheck: New page: Asset Save: BP_PlayerMenu
+[2023.04.27-12.55.14:447][872]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/UI/Blueprints/BP_PlayerMenu.BP_PlayerMenu
+[2023.04.27-12.55.15:177][933]BlueprintLog: New page: Compile BP_PlayerMenu
+[2023.04.27-12.55.15:331][933]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.04.27-12.55.15:858][966]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.27-12.55.15:949][966]LogSavePackage: Moving output files for package: /Game/UI/Blueprints/BP_PlayerMenu
+[2023.04.27-12.55.15:950][966]LogSavePackage: Moving '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Saved/BP_PlayerMenu8ECD80F94BB26AD5EBF6BFB04138C217.tmp' to '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Content/UI/Blueprints/BP_PlayerMenu.uasset'
+[2023.04.27-12.55.15:959][966]LogFileHelpers: InternalPromptForCheckoutAndSave took 101 ms (total: 21.1 sec)
+[2023.04.27-12.55.15:966][966]AssetCheck: New page: Asset Save: BP_PlayerMenu
+[2023.04.27-12.55.15:966][966]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/UI/Blueprints/BP_PlayerMenu.BP_PlayerMenu
+[2023.04.27-12.55.17:400][ 57]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.27-12.55.17:408][ 57]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.27-12.55.17:408][ 57]PIE: New page: PIE session: MainMenu (Apr 27, 2023, 1:55:17 AM)
+[2023.04.27-12.55.17:409][ 57]LogPlayLevel: Creating play world package: /Game/UI/UEDPIE_0_MainMenu
+[2023.04.27-12.55.17:411][ 57]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002749s)
+[2023.04.27-12.55.17:411][ 57]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UI/MainMenu.MainMenu to /Game/UI/UEDPIE_0_MainMenu.MainMenu (0.002796s)
+[2023.04.27-12.55.17:411][ 57]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.27-12.55.17:412][ 57]LogAIModule: Creating AISystem for world MainMenu
+[2023.04.27-12.55.17:412][ 57]LogPlayLevel: PIE: World Init took: (0.001083s)
+[2023.04.27-12.55.17:504][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.04.27-12.55.17:509][ 57]LogAudio: Display: Creating Audio Device:                 Id: 202, Scope: Unique, Realtime: True
+[2023.04.27-12.55.17:509][ 57]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.27-12.55.17:509][ 57]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.27-12.55.17:509][ 57]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.27-12.55.17:509][ 57]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.27-12.55.17:509][ 57]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.27-12.55.17:509][ 57]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.27-12.55.17:509][ 57]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.27-12.55.17:509][ 57]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.27-12.55.17:510][ 57]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.27-12.55.17:510][ 57]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.27-12.55.17:510][ 57]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.27-12.55.17:512][ 57]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.27-12.55.17:535][ 57]LogAudioMixer: Display: Using Audio Hardware Device Digital Audio (S/PDIF) (High Definition Audio Device)
+[2023.04.27-12.55.17:535][ 57]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.27-12.55.17:535][ 57]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.27-12.55.17:535][ 57]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.27-12.55.17:536][ 57]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=202
+[2023.04.27-12.55.17:536][ 57]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=202
+[2023.04.27-12.55.17:538][ 57]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=202
+[2023.04.27-12.55.17:538][ 57]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=202
+[2023.04.27-12.55.17:538][ 57]LogInit: FAudioDevice initialized.
+[2023.04.27-12.55.17:538][ 57]LogAudio: Display: Audio Device (ID: 202) registered with world 'MainMenu'.
+[2023.04.27-12.55.17:541][ 57]LogLoad: Game class is 'BP_GameModeMenu_C'
+[2023.04.27-12.55.17:542][ 57]LogWorld: Bringing World /Game/UI/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2023.04.27-06.55.17
+[2023.04.27-12.55.17:542][ 57]LogWorld: Bringing up level for play took: 0.000936
+[2023.04.27-12.55.17:544][ 57]LogOnline: OSS: Created online subsystem instance for: :Context_228
+[2023.04.27-12.55.17:546][ 57]PIE: Server logged in
+[2023.04.27-12.55.17:547][ 57]PIE: Play in editor total start time 0.139 seconds.
+[2023.04.27-12.55.30:617][864]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.27-12.55.30:617][864]LogWorld: BeginTearingDown for /Game/UI/UEDPIE_0_MainMenu
+[2023.04.27-12.55.30:618][864]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.04.27-12.55.30:618][864]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.27-12.55.30:646][864]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.27-12.55.30:653][864]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.27-12.55.30:749][864]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.27-12.55.30:749][864]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=202
+[2023.04.27-12.55.30:751][864]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=202
+[2023.04.27-12.55.30:754][864]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.27-12.55.30:757][864]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.04.27-12.55.30:791][865]LogPlayLevel: Display: Destroying online subsystem :Context_228
+[2023.04.27-12.55.35:465][207]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.27-12.55.35:500][207]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Widgets/BPW_Controls" FILE="../../../../../../Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Content/UI/Widgets/BPW_Controls.uasset" SILENT=true
+[2023.04.27-12.55.35:506][207]LogSavePackage: Moving output files for package: /Game/UI/Widgets/BPW_Controls
+[2023.04.27-12.55.35:506][207]LogSavePackage: Moving '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Saved/BPW_Controls4D04CC8D4B69D962B3B011A3BF696EC5.tmp' to '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Content/UI/Widgets/BPW_Controls.uasset'
+[2023.04.27-12.55.35:515][207]LogFileHelpers: InternalPromptForCheckoutAndSave took 50 ms (total: 21.1 sec)
+[2023.04.27-12.55.35:523][207]AssetCheck: New page: Asset Save: BPW_Controls
+[2023.04.27-12.55.35:523][207]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Widgets/BPW_Controls.BPW_Controls
+[2023.04.27-12.56.19:072][899]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.27-12.56.19:080][899]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.27-12.56.19:080][899]PIE: New page: PIE session: MainMenu (Apr 27, 2023, 1:56:19 AM)
+[2023.04.27-12.56.19:081][899]LogPlayLevel: Creating play world package: /Game/UI/UEDPIE_0_MainMenu
+[2023.04.27-12.56.19:083][899]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002835s)
+[2023.04.27-12.56.19:084][899]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UI/MainMenu.MainMenu to /Game/UI/UEDPIE_0_MainMenu.MainMenu (0.002885s)
+[2023.04.27-12.56.19:084][899]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.27-12.56.19:084][899]LogAIModule: Creating AISystem for world MainMenu
+[2023.04.27-12.56.19:084][899]LogPlayLevel: PIE: World Init took: (0.000981s)
+[2023.04.27-12.56.19:180][899]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.04.27-12.56.19:183][899]LogAudio: Display: Creating Audio Device:                 Id: 203, Scope: Unique, Realtime: True
+[2023.04.27-12.56.19:183][899]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.27-12.56.19:183][899]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.27-12.56.19:183][899]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.27-12.56.19:183][899]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.27-12.56.19:183][899]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.27-12.56.19:183][899]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.27-12.56.19:183][899]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.27-12.56.19:183][899]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.27-12.56.19:184][899]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.27-12.56.19:184][899]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.27-12.56.19:184][899]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.27-12.56.19:187][899]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.27-12.56.19:211][899]LogAudioMixer: Display: Using Audio Hardware Device Digital Audio (S/PDIF) (High Definition Audio Device)
+[2023.04.27-12.56.19:211][899]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.27-12.56.19:211][899]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.27-12.56.19:211][899]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.27-12.56.19:212][899]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=203
+[2023.04.27-12.56.19:212][899]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=203
+[2023.04.27-12.56.19:214][899]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=203
+[2023.04.27-12.56.19:214][899]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=203
+[2023.04.27-12.56.19:214][899]LogInit: FAudioDevice initialized.
+[2023.04.27-12.56.19:214][899]LogAudio: Display: Audio Device (ID: 203) registered with world 'MainMenu'.
+[2023.04.27-12.56.19:216][899]LogLoad: Game class is 'BP_GameModeMenu_C'
+[2023.04.27-12.56.19:217][899]LogWorld: Bringing World /Game/UI/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2023.04.27-06.56.19
+[2023.04.27-12.56.19:218][899]LogWorld: Bringing up level for play took: 0.000877
+[2023.04.27-12.56.19:220][899]LogOnline: OSS: Created online subsystem instance for: :Context_229
+[2023.04.27-12.56.19:222][899]PIE: Server logged in
+[2023.04.27-12.56.19:223][899]PIE: Play in editor total start time 0.142 seconds.
+[2023.04.27-12.56.26:785][358]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.27-12.56.26:785][358]LogWorld: BeginTearingDown for /Game/UI/UEDPIE_0_MainMenu
+[2023.04.27-12.56.26:808][358]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.04.27-12.56.26:808][358]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.27-12.56.26:836][358]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.27-12.56.26:842][358]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.27-12.56.26:933][358]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.27-12.56.26:933][358]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=203
+[2023.04.27-12.56.26:935][358]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=203
+[2023.04.27-12.56.26:939][358]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.27-12.56.26:942][358]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.04.27-12.56.27:038][359]LogPlayLevel: Display: Destroying online subsystem :Context_229
+[2023.04.27-12.56.28:927][443]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.27-12.56.28:934][443]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.27-12.56.28:934][443]PIE: New page: PIE session: MainMenu (Apr 27, 2023, 1:56:28 AM)
+[2023.04.27-12.56.28:934][443]LogPlayLevel: Creating play world package: /Game/UI/UEDPIE_0_MainMenu
+[2023.04.27-12.56.28:937][443]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002676s)
+[2023.04.27-12.56.28:937][443]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UI/MainMenu.MainMenu to /Game/UI/UEDPIE_0_MainMenu.MainMenu (0.002721s)
+[2023.04.27-12.56.28:937][443]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.27-12.56.28:938][443]LogAIModule: Creating AISystem for world MainMenu
+[2023.04.27-12.56.28:938][443]LogPlayLevel: PIE: World Init took: (0.000888s)
+[2023.04.27-12.56.29:032][443]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.04.27-12.56.29:035][443]LogAudio: Display: Creating Audio Device:                 Id: 204, Scope: Unique, Realtime: True
+[2023.04.27-12.56.29:035][443]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.27-12.56.29:035][443]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.27-12.56.29:035][443]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.27-12.56.29:035][443]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.27-12.56.29:035][443]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.27-12.56.29:035][443]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.27-12.56.29:035][443]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.27-12.56.29:035][443]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.27-12.56.29:036][443]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.27-12.56.29:036][443]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.27-12.56.29:036][443]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.27-12.56.29:038][443]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.27-12.56.29:061][443]LogAudioMixer: Display: Using Audio Hardware Device Digital Audio (S/PDIF) (High Definition Audio Device)
+[2023.04.27-12.56.29:062][443]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.27-12.56.29:062][443]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.27-12.56.29:062][443]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.27-12.56.29:063][443]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=204
+[2023.04.27-12.56.29:063][443]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=204
+[2023.04.27-12.56.29:065][443]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=204
+[2023.04.27-12.56.29:065][443]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=204
+[2023.04.27-12.56.29:065][443]LogInit: FAudioDevice initialized.
+[2023.04.27-12.56.29:065][443]LogAudio: Display: Audio Device (ID: 204) registered with world 'MainMenu'.
+[2023.04.27-12.56.29:068][443]LogLoad: Game class is 'BP_GameModeMenu_C'
+[2023.04.27-12.56.29:069][443]LogWorld: Bringing World /Game/UI/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2023.04.27-06.56.29
+[2023.04.27-12.56.29:069][443]LogWorld: Bringing up level for play took: 0.001076
+[2023.04.27-12.56.29:071][443]LogOnline: OSS: Created online subsystem instance for: :Context_230
+[2023.04.27-12.56.29:073][443]PIE: Server logged in
+[2023.04.27-12.56.29:074][443]PIE: Play in editor total start time 0.14 seconds.
+[2023.04.27-12.56.30:604][535]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.27-12.56.32:368][637]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.27-12.56.32:368][637]LogWorld: BeginTearingDown for /Game/UI/UEDPIE_0_MainMenu
+[2023.04.27-12.56.32:369][637]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.04.27-12.56.32:369][637]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.27-12.56.32:376][637]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.27-12.56.32:383][637]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.27-12.56.32:475][637]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.27-12.56.32:476][637]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=204
+[2023.04.27-12.56.32:478][637]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=204
+[2023.04.27-12.56.32:484][637]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.04.27-12.56.32:515][638]LogPlayLevel: Display: Destroying online subsystem :Context_230
+[2023.04.27-12.56.33:376][675]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.27-12.56.33:575][675]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.04.27-12.56.33:586][675]LogSavePackage: Moving output files for package: /Game/UI/MainMenu
+[2023.04.27-12.56.33:587][675]LogSavePackage: Moving '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Saved/MainMenu292756534D84E9B8BB73FB99CC668DE5.tmp' to '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/AmongTheStars/AmongTheStars/Content/UI/MainMenu.umap'
+[2023.04.27-12.56.33:602][675]LogFileHelpers: Saving map 'MainMenu' took 0.142
+[2023.04.27-12.56.33:610][675]LogFileHelpers: InternalPromptForCheckoutAndSave took 233 ms (total: 21.4 sec)
+[2023.04.27-12.56.33:619][675]AssetCheck: New page: Asset Save: MainMenu
+[2023.04.27-12.56.33:619][675]LogContentValidation: Display: Validating /Script/Engine.World /Game/UI/MainMenu.MainMenu
