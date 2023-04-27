@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/ALUMNOS/Documents/GitHub/AmongTheStars/Content/_Developers/JoseMiguelRuizMata/Level_Design/NewMap.umap",
+				"C:/Users/ALUMNOS/Documents/GitHub/AmongTheStars/Content/_Developers/JoseMiguelRuizMata/Level_Design/CelestialSearch_LevelDesign.umap",
+				"C:/Users/ALUMNOS/Documents/GitHub/AmongTheStars/Content/_Developers/JoseMiguelRuizMata/Level_Design/_GENERATED/ALUMNOS/CubeGridToolOutput_DF1AAC35.uasset",
+				"C:/Users/ALUMNOS/Documents/GitHub/AmongTheStars/Content/_Developers/JoseMiguelRuizMata/Level_Design/_GENERATED/ALUMNOS/Box_86997E38.uasset",
+				"C:/Users/ALUMNOS/Documents/GitHub/AmongTheStars/Content/_Developers/JoseMiguelRuizMata/Level_Design/_GENERATED/ALUMNOS/CubeGridToolOutput_3114CA97.uasset",
+				"C:/Users/ALUMNOS/Documents/GitHub/AmongTheStars/Content/_Developers/JoseMiguelRuizMata/Level_Design/_GENERATED/ALUMNOS/CubeGridToolOutput_3EE90E73.uasset",
+				"C:/Users/ALUMNOS/Documents/GitHub/AmongTheStars/Content/_Developers/JoseMiguelRuizMata/Level_Design/_GENERATED/ALUMNOS/CubeGridToolOutput_5562F790.uasset",
+				"C:/Users/ALUMNOS/Documents/GitHub/AmongTheStars/Content/_Developers/JoseMiguelRuizMata/Level_Design/_GENERATED/ALUMNOS/CubeGridToolOutput_F0ED4035.uasset",
+				"C:/Users/ALUMNOS/Documents/GitHub/AmongTheStars/Content/_Developers/JoseMiguelRuizMata/Level_Design/_GENERATED/ALUMNOS/CubeGridToolOutput_5B441D39.uasset"
+			]
+		}
+	]
+}
