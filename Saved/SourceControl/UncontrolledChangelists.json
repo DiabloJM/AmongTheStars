@@ -5,7 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/ALUMNOS/Documents/GitHub/AmongTheStars/Content/_Developers/JoseMiguelRuizMata/Level_Design/NewMap.umap",
 				"C:/Users/ALUMNOS/Documents/GitHub/AmongTheStars/Content/_Developers/JoseMiguelRuizMata/Level_Design/CelestialSearch_LevelDesign.umap",
 				"C:/Users/ALUMNOS/Documents/GitHub/AmongTheStars/Content/_Developers/JoseMiguelRuizMata/Level_Design/_GENERATED/ALUMNOS/CubeGridToolOutput_DF1AAC35.uasset",
 				"C:/Users/ALUMNOS/Documents/GitHub/AmongTheStars/Content/_Developers/JoseMiguelRuizMata/Level_Design/_GENERATED/ALUMNOS/Box_86997E38.uasset",
@@ -13,7 +12,32 @@
 				"C:/Users/ALUMNOS/Documents/GitHub/AmongTheStars/Content/_Developers/JoseMiguelRuizMata/Level_Design/_GENERATED/ALUMNOS/CubeGridToolOutput_3EE90E73.uasset",
 				"C:/Users/ALUMNOS/Documents/GitHub/AmongTheStars/Content/_Developers/JoseMiguelRuizMata/Level_Design/_GENERATED/ALUMNOS/CubeGridToolOutput_5562F790.uasset",
 				"C:/Users/ALUMNOS/Documents/GitHub/AmongTheStars/Content/_Developers/JoseMiguelRuizMata/Level_Design/_GENERATED/ALUMNOS/CubeGridToolOutput_F0ED4035.uasset",
-				"C:/Users/ALUMNOS/Documents/GitHub/AmongTheStars/Content/_Developers/JoseMiguelRuizMata/Level_Design/_GENERATED/ALUMNOS/CubeGridToolOutput_5B441D39.uasset"
+				"C:/Users/ALUMNOS/Documents/GitHub/AmongTheStars/Content/_Developers/JoseMiguelRuizMata/Level_Design/_GENERATED/ALUMNOS/CubeGridToolOutput_5B441D39.uasset",
+				"C:/Users/ALUMNOS/Documents/GitHub/AmongTheStars/Content/_Developers/JoseMiguelRuizMata/Level_Design/Materials/M_ElectricStrike.uasset",
+				"C:/Users/ALUMNOS/Documents/GitHub/AmongTheStars/Content/_Developers/JoseMiguelRuizMata/Level_Design/Materials/M_MetalFloor.uasset",
+				"C:/Users/ALUMNOS/Documents/GitHub/AmongTheStars/Content/ThirdPerson/Blueprints/asdadaf.uasset",
+				"C:/Users/ALUMNOS/Documents/GitHub/AmongTheStars/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/ALUMNOS/Documents/GitHub/AmongTheStars/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/ALUMNOS/Documents/GitHub/AmongTheStars/Content/_Developers/JoseMiguelRuizMata/Level_Design/_GENERATED/ALUMNOS/Boolean_9752CDCA.uasset",
+				"C:/Users/ALUMNOS/Documents/GitHub/AmongTheStars/Content/_Developers/JoseMiguelRuizMata/Level_Design/_GENERATED/ALUMNOS/Boolean_A0023C9A.uasset",
+				"C:/Users/ALUMNOS/Documents/GitHub/AmongTheStars/Content/_Developers/JoseMiguelRuizMata/Level_Design/_GENERATED/ALUMNOS/Box_00489F15.uasset",
+				"C:/Users/ALUMNOS/Documents/GitHub/AmongTheStars/Content/_Developers/JoseMiguelRuizMata/Level_Design/_GENERATED/ALUMNOS/Box_7FDB9748.uasset",
+				"C:/Users/ALUMNOS/Documents/GitHub/AmongTheStars/Content/_Developers/JoseMiguelRuizMata/Level_Design/_GENERATED/ALUMNOS/Box_D8454D13.uasset",
+				"C:/Users/ALUMNOS/Documents/GitHub/AmongTheStars/Content/_Developers/JoseMiguelRuizMata/Level_Design/_GENERATED/ALUMNOS/CubeGridToolOutput_303318A6.uasset",
+				"C:/Users/ALUMNOS/Documents/GitHub/AmongTheStars/Content/_Developers/JoseMiguelRuizMata/Level_Design/_GENERATED/ALUMNOS/CubeGridToolOutput_31778B71.uasset",
+				"C:/Users/ALUMNOS/Documents/GitHub/AmongTheStars/Content/_Developers/JoseMiguelRuizMata/Level_Design/_GENERATED/ALUMNOS/CubeGridToolOutput_E33CB92C.uasset",
+				"C:/Users/ALUMNOS/Documents/GitHub/AmongTheStars/Content/_Developers/JoseMiguelRuizMata/Level_Design/_GENERATED/ALUMNOS/CubeGridToolOutput_FD86884F.uasset",
+				"C:/Users/ALUMNOS/Documents/GitHub/AmongTheStars/Content/_Developers/JoseMiguelRuizMata/Level_Design/_GENERATED/ALUMNOS/Cylinder_12D6028E.uasset",
+				"C:/Users/ALUMNOS/Documents/GitHub/AmongTheStars/Content/_Developers/JoseMiguelRuizMata/Level_Design/_GENERATED/ALUMNOS/Cylinder_943EE615.uasset",
+				"C:/Users/ALUMNOS/Documents/GitHub/AmongTheStars/Content/_Developers/JoseMiguelRuizMata/Level_Design/_GENERATED/ALUMNOS/Extrude_513F3CA5.uasset",
+				"C:/Users/ALUMNOS/Documents/GitHub/AmongTheStars/Content/_Developers/JoseMiguelRuizMata/Level_Design/_GENERATED/ALUMNOS/Extrude_96EABFC4.uasset",
+				"C:/Users/ALUMNOS/Documents/GitHub/AmongTheStars/Content/_Developers/JoseMiguelRuizMata/Level_Design/_GENERATED/ALUMNOS/Extrude_9FDBD23B.uasset",
+				"C:/Users/ALUMNOS/Documents/GitHub/AmongTheStars/Content/_Developers/JoseMiguelRuizMata/Level_Design/_GENERATED/ALUMNOS/Extrude_D1938E51.uasset",
+				"C:/Users/ALUMNOS/Documents/GitHub/AmongTheStars/Content/_Developers/JoseMiguelRuizMata/Level_Design/_GENERATED/ALUMNOS/Extrude_FBE5DB8D.uasset",
+				"C:/Users/ALUMNOS/Documents/GitHub/AmongTheStars/Content/_Developers/JoseMiguelRuizMata/Level_Design/Materials/M_ExplosionEffect.uasset",
+				"C:/Users/ALUMNOS/Documents/GitHub/AmongTheStars/Content/StarterContent/Particles/P_Sparks.uasset",
+				"C:/Users/ALUMNOS/Documents/GitHub/AmongTheStars/Content/_Developers/JoseMiguelRuizMata/Level_Design/_GENERATED/ALUMNOS/Path_89D8DE2E.uasset",
+				"C:/Users/ALUMNOS/Documents/GitHub/AmongTheStars/Content/_Developers/JoseMiguelRuizMata/Level_Design/NewMap.umap"
 			]
 		}
 	]
